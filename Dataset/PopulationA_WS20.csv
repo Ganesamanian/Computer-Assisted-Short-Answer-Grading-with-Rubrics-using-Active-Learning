@@ -1,0 +1,1368 @@
+grade,answer,comment
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = '1. Art liegt vor wenn die Nullhypothese zurückgewiesen wird obwohl sie in Wirklichkeit wahr ist'
+beschreibungTyp2 = '2. Art, dass der Test die Nullhypothese fälschlicherweise nicht zurückweist, obwohl die Alternativhypothese korrekt ist.'
+
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ho wird abgelehnt, auch wenn sie in Wirklichkeit wahr ist'
+beschreibungTyp2 = 'Ho wird angenommen, auch wenn sie in Wirklichkeit falsch ist'
+
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'H0 zurueckgewiesen wird, obwohl sie wahr ist'
+beschreibungTyp2 = 'H0 bestaetigt, obwohl H1 korrekt ist'
+# YOUR CODE HERE
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Die Testergebniosse sind ungenau/fehlerhaft'
+beschreibungTyp2 = 'Die Vereingungsmenge P ist leer'
+# YOUR CODE HERE
+beschreibungTyp1 
+beschreibungTyp2 
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Die Nullhypothese wird zurückgewiesen, obwohl sie wahr ist'
+beschreibungTyp2 = 'Die Nullhypothese wird bestätigt, obwohl sie falsch ist und die Alternativhypothese richtig ist'
+# YOUR CODE HERE
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'H0 ist wahr, H1 wird angenommen, falsch negativ'
+beschreibungTyp2 = 'H1 ist wahr, H0 wird angenommen, falsch positiv'
+# YOUR CODE HERE
+
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'H_0 wird zurück gewiesen obwohl H_0 wahr ist'
+beschreibungTyp2 = 'H_0 wird nicht zurück gewiesen obwohl H_1 korrekt ist'",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Wenn die H0 stimmt, wird aber abgelehnt'
+beschreibungTyp2 = 'H0 nicht stimmt, wird aber angenommen'
+# YOUR CODE HERE
+#raise NotImplementedError()
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Die Nullhypothese H0 wird widerlegt obwohl sie wahr ist.'
+beschreibungTyp2 = 'Die Nullhypothese H0 wird bestätigt obwohl sie falsch ist.'
+# YOUR CODE HERE
+#raise NotImplementedError()
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = '...,wenn die H0 Hypothese zurückgewiesen wird obwohl diese wahr ist'
+beschreibungTyp2 = '...,wenn die H0 Hypothese falscherweise angenommen wird, obwohl die H1 Hypothese also die gegenteilige Annahme zur H0 Hypothese war ist.'
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Beim Test einer Hypothese liegt ein Fehler 1. Art vor, wenn die Nullhypothese zurückgewiesen wird, obwohl sie in Wirklichkeit wahr ist (beruhend auf falsch positiven Ergebnissen).'
+beschreibungTyp2 = 'Im Gegensatz zum Fehler 1. Art bedeutet ein Fehler 2. Art, dass der Test die Nullhypothese fälschlicherweise bestätigt, obwohl die Alternativhypothese korrekt ist.'
+# YOUR CODE HERE
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'H0 wird abgewiesen, obwohl  sie in Wahrheit die richtige ist.'
+beschreibungTyp2 = 'Die Hypothese H0 wird bestätigt, obwohl die Alternativhypothese H1 die richtige ist'
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'wenn beim Test einer Hypothese liegt ein Fehler von type 1 oder alpha fehler vor, wenn die Nullhypothese zurückgewiesen wird'
+beschreibungTyp2 = 'im Gegensatz zum Fehler 1. Art bedeutet ein Fehler von type 2 oder beta fehler , dass der Test die Nullhypothese fälschlicherweise bestätigt, obwohl die Alternativhypothese korrekt ist.'
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Hierbei handelt es sich um einen Hypothesentest, der verworfen wird'
+beschreibungTyp2 = 'Hierbei handelt es sich um einen Hypothesentest, der beibehalten wird'
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'beim Test einer Hypothese Liegt ein Fehler 1. Artvor, wenn die ""Beim Test einer Hypothese liegt ein Fehler 1. Art vor, wenn die Nullhypothese zurückgewiesen wird, obwohl sie in Wirklichkeit wahr ist'
+beschreibungTyp2 = 'Im Gegensatz zum Fehler 1. Art bedeutet ein Fehler 2. Art, dass der der Test die Nullhypothese fälschlicherweise bestätigt, obwohl die Alternativhypothese korrekt ist'
+
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ho wird verworfen obwohl sie wahr ist.'
+beschreibungTyp2 = 'Ho wird beibehalten obwohl sie falsch ist.'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'die Nullhypothese wahr ist, aber abgelehnt wird'
+beschreibungTyp2 = 'die Nullhypothese falsch ist, aber fälschlicherweise angenommen wird'
+# YOUR CODE HERE
+#raise NotImplementedError()
+print(beschreibungTyp1)
+print(beschreibungTyp2)
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'H0 wahr und H0 verworfen'
+beschreibungTyp2 = 'H0 falsch und H0 angenommen'
+
+
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Wenn H0 verworfen wird, obwohl sie wahr ist: Alphafehler'
+beschreibungTyp2 = 'Wenn H0 fälschlicherweise behalten wird'
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Wenn einer aus P1 auch in P2 ist'
+beschreibungTyp2 = 'Wenn einer aus P2 auch in P1 ist'
+
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+beschreibungTyp1 = 'Nullhypothese  wird zurückgewiesen'
+beschreibungTyp2 = 'Nullhypothese wird fälschlicherweise bestätigt'
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+
+beschreibungTyp1 = ""Fehler Typ 1 liegt vor falls , H0 abgelehnt wird obwohl sie richtig ist""
+beschreibungTyp2 = ""Fehler Typ 2 liegt vor falls , H1 angenommen wird obwohl sie falsch ist""",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Wenn bei einem Hypothesentest die Nullhypothese zu Unrecht verworfen wird'
+beschreibungTyp2 = 'Wenn bei einem Hypothesentest die Nullhypothese zu Unrecht beibehalten wird'
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Wenn die Nullhypothese zu Unrecht verworfen wird'
+beschreibungTyp2 = 'Wenn die Nullhypothese zu Unrecht beibehalten wird'",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Wenn H0 werworfen wird, weil P im Ablehnungbereich ist(alpha-fehler)'
+beschreibungTyp2 = 'Wenn H0 beibehalten wird, weil P im annahmebereich ist(Beta-fehler)'
+# YOUR CODE HERE
+#raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ein Fehler vom Typ1 liegt vor, wenn die H0 hypothese stimmt aber H1 angenommen wird'
+beschreibungTyp2 = 'Ein Fehler vom Typ2 liegt vor, wenn die H1 Hypothese stimmt, aber H0 angenommen wird'
+# YOUR CODE HERE
+
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'die Nullhypothese wahr ist, aber abgelehnt wird'
+beschreibungTyp2 = 'die Nullhypothese falsch ist, aber fälschlicherweise angenommen wird'
+print(beschreibungTyp1)
+print(beschreibungTyp2)
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Wenn H0 stimmt aber verworfen wird'
+beschreibungTyp2 = 'Wenn H1 stimmt aber H0 angenommen wird'
+",
+2,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Wenn die Nullhypothese abgelehnt wird'
+beschreibungTyp2 = 'Wenn die Nullhypothese angenommen wird, obwohl die Nullhypothese nicht zutrifft'
+# YOUR CODE HERE
+# raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'wenn die Nullhypothese zurückgewiesen wird, obwohl sie in Wirklichkeit wahr ist '
+beschreibungTyp2 = 'dass der Test die Nullhypothese fälschlicherweise bestätigt, obwohl die Alternativhypothese korrekt ist.'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'die Nullhypothese zurückgewiesen wird, obwohl sie wahr ist.'
+beschreibungTyp2 = 'die Nullhypothese bestätigt wird, obwohl sie falsch ist'",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ein Fehler vom Typ 1 liegt vor, wenn die Nullhypothese zu unrecht verworfen wird'
+beschreibungTyp2 = 'Ein Fehler vom Typ 2 liegt vor, wenn die Nullhypothese zu unrecht beibehalten wird'",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ein Fehler 1. Art liegt vor, wenn bei einem Hypothesentest die Nullhypothese zu Unrecht verworfen wird.'
+beschreibungTyp2 = 'Ein Fehler 2. Art liegt vor, wenn bei einem Hypothesentest die Nullhypothese zu Unrecht beibehalten wird.'",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = ' die H0 zurückgewisen wird obwohl sie wahr ist'
+beschreibungTyp2 = 'umgekehrt zu Typ 1 H0 falsch ist aber angenommen wird.'
+# YOUR CODE HERE
+
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'H0 wird verworfen aber H0 stimmt'
+beschreibungTyp2 = 'H0 wird beibehalten jedoch H1 stimmt'
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1, wenn H0 verworfen wird, obwohl sie in Wirklichkeit richtig ist'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2, wenn H1 verworfen wird, obwohl sie eigentlich in Wirklichkeit richtig ist'
+# YOUR CODE HERE
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Nullhypothese wird nicht angenommen, obwohl sie eigentlich wahr ist'
+beschreibungTyp2 = 'Nullhypothese wird angenommen, obwohl eine Alternativhypothese wahr ist'",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Es zu einem falschen Positiven Ergebnis kommt, obwohl H0 zurückgewiesen wurde.'
+beschreibungTyp2 = 'Es zu einem falschen Negativen Ergebnis kommt, da H0 angenommen, allerdings die Alternativhypothese korrekt wäre'
+# YOUR CODE HERE
+#raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+beschreibungTyp1 = 'Ein Fehler vom Typ 1 liegt vor, wenn die H0-Hypothese fälschlicherweise verworfen wird.'
+beschreibungTyp2 = 'Ein Fehler vom Typ 2 liegt vor, wenn die H0-Hypothese fälschlicherweise angenommen wird.'",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Die Nullhypothese zurückgewiesen wird, obwohl sie eigentlich wahr ist.'
+beschreibungTyp2 = 'Die Nullhypothese angenommen wird, obwohl die Gegenhypothese wahr ist.'
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'H0 wird abgelehnt, auch wenn sie in Wirklichkeit wahr ist'
+beschreibungTyp2 = 'H0 wird angenommen, auch wenn sie in Wirklichkeit falsch ist'",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'wenn die Hypothese H0 stimmt aber sie wird verworfen (H1 wird angenommen)'
+beschreibungTyp2 = 'wenn die gegen_Hypthose H1 stimmt aber H0 wird angenommen'
+# YOUR CODE HERE
+
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# MY CODE HERE
+beschreibungTyp1 = 'H0 Hypothese vorliegt'
+beschreibungTyp2 = 'H1 Hypothese vorliegt'",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Der Alpha-Fehler liegt vor, wenn H0 fälschlicherweise verworfen wird und H1 dafür angenommen wird.'
+beschreibungTyp2 = 'Der Beta-Fehler liegt vor, wenn H1 fälschlicherweise verworfen wird und H0 dafür angenommen wird.'
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+beschreibungTyp1 = 'Ein Fehler erster Art beschreibt, wenn H0 wahr ist, aber als falsch getestet wird.'
+beschreibungTyp2 = 'Ein Fehler erster Art beschreibt, wenn H0 falsch ist, aber als wahr getestet wird.'
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'wenn die Nullhypothese zurückgewiesen wird, obwohl sie in Wirklichkeit wahr ist'
+beschreibungTyp2 = 'der Test zurückweist nicht die Nullhypothese fälschlicherweise , obwohl die Alternativhypothese korrekt ist.'
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Wenn die Nullhypothese zurückgewiesen wird, obwohl sie in wirklichkeit wahr ist'
+beschreibungTyp2 = 'Der Test weist die Nullhypothese fälschlicherweise nicht zurück'
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'H0 wird abgelehnt, obwohl H0 stimmt, das untere Quantil des Annahmebereichs = alpha'
+beschreibungTyp2 = 'H0 wird angenommen, obwohl H0 nicht stimmt, das obere Quantil des Annahmebereichs = beta'
+# YOUR CODE HERE
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ein Fehler vom Typ 1 liegt vor, wenn H0 stimmt, aber verworfen wird'
+beschreibungTyp2 = 'Ein Fehler vom Typ 2 liegt vor, wenn H1 stimmt, H0 aber beibehalten wird'",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = '... Die Nullhypothese zurückgewiesen wird, obwohl sie wahr ist'
+beschreibungTyp2 = '... Die Nullhypothese angenommen wird, obwohl sie falsch ist'
+
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Wenn die Nullhypothese verworfen wird, obwohl sie wahr ist'
+beschreibungTyp2 = 'Wenn die Nullhypothese angenommen wird, obwohl die Alternativhypothese korrekt ist'
+
+beschreibungTyp1
+beschreibungTyp2",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'die Nullhypothese zurückgewiesen wird, obwohl sie in Wirklichkeit wahr ist'
+beschreibungTyp2 = 'der Test die Nullhypothese fälschlicherweise bestätigt, obwohl die Alternativhypothese korrekt ist.'
+
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ein Fehler vom Typ 1 liegt vor, wenn die H0-Hypothese verworfen wird, obwohl sie stimmt.'
+beschreibungTyp2 = 'Ein Fehler vom Typ 2 liegt vor, wenn die H0-Hypothese beibehalten wird, obwohl sie nicht stimmt, bzw. eine andere Hypothese H1 stimmt.'
+# YOUR CODE HERE
+
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'ein positiver Fall sich nach dem Test als negativ erweist'
+beschreibungTyp2 = 'ein negativer Fall sich nach dem Test als positiv erweist'
+# YOUR CODE HERE
+#raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Der Fehler 1. Art (alpha-Fehler) liegt vor, wenn die Nullhypothese zurückgewiesen wird, obwohl sie in Wirklichkeit wahr ist'
+beschreibungTyp2 = 'Der Fehler 2. Art (beta-Fehler) bedeutet, dass der Test die Nullhypothese fälschlicherweise nicht zurückweist, obwohl die Alternativhypothese korrekt ist.'
+# YOUR CODE HERE
+#raise NotImplementedError()
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'H0 wird verworfen und H1 angenommen, obwohl H0 stimmt und H1 falsch ist.'
+beschreibungTyp2 = 'H0 wird angenommen und H1 verworfen, obwohl H0 falsch ist und H1 stimmt.'
+
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'die Nullhypothese wahr ist, aber abgelehnt wird.'
+beschreibungTyp2 = 'die Nullhypothese fälschlicherweise bestätigt, obwohl die Alternativhypothese wahr ist.'
+# YOUR CODE HERE
+print(beschreibungTyp1)
+print(beschreibungTyp2)",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Wenn H0 zu Unrecht verworfen wird'
+beschreibungTyp2 = 'Wenn H0 zu Unrecht beibehalten wird'
+# YOUR CODE HERE
+
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+raise NotImplementedError()
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Fehler Art 1.:wenn bei einem Hypothesentest die Nullhypothese zu Unrecht verworfen wird.'
+beschreibungTyp2 = 'Fehler Art 2.:wenn bei einem Hypothesentest die Nullhypothese zu Unrecht beibehalten wird.'
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'H0 stimmt aber ablehnt wird und wir die Alternativhypothese H1 stattdessen annehmen'
+beschreibungTyp2 = 'H0 ist falsch, wird aber trotzdem angenommen'
+# YOUR CODE HERE
+
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ein Fehler Typ 1 liegt vor, wenn ein ein Subjekt, welches das gesuchte Merkmal erfüllt, \
+durch die Nullhypothese 𝐻0 zurückgewiesen wird'
+beschreibungTyp2 = 'Ein Fehler Typ 2 liegt vor, wenn ein ein Subjekt, welches das gesuchte Merkmal NICHT erfüllt, \
+durch die Nullhypothese 𝐻0 angenommen wird'",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Die Nullhypothese ist zwar wahr, wird aber abgelehnt'
+beschreibungTyp2 = 'Die Nullhypothe ist falsch, wird aber als wahr angenommen'
+# YOUR CODE HERE
+print(beschreibungTyp1)
+print(beschreibungTyp2)
+#raise NotImplementedError()
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'die Nullhypothese (H0) wahr ist, aber abgelehnt wird.'
+beschreibungTyp2 = 'die Nullhypothese falsch ist, aber fälschlicherweise angenommen wird.'
+
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'H0 wird als korrekt angenommen, aber eigentlich wäre H1 korrekt. p ist also <= alpha '
+beschreibungTyp2 = 'H1 ist falsch, wird aber als korrekt angesehen, die wahrscheinlichekite hierfür ist ungekannt'
+# YOUR CODE HERE",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ein Fehler 1. Art liegt vor, wenn die H0 Hypothese abgelehnt wird, obwohl sie wahr ist'
+beschreibungTyp2 = 'Ein Fehler 2. Art liegt vor, wenn die H0 Hypothese angenommen wird, obwohl sie falsch ist'
+# YOUR CODE HERE
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+beschreibungTyp1 = 'die Nullhypothese zurückgewiesen wird, obwohl sie in Wirklichkeit wahr ist'
+beschreibungTyp2 = 'der Test die Nullhypothese fälschlicherweise nicht zurückweist, obwohl die Alternativhypothese korrekt ist'
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = '...H0 verworfen wird, obwohl H0 richtig ist'
+beschreibungTyp2 = '...H0 angenommen wird, obwohl H0 falsch ist'
+","
+"
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ein Fehler Typ 1 liegt vor wenn H0 wahr ist aber abgelehnt wird.'
+beschreibungTyp2 = 'Ein Fehler Typ 2 liegt vor wenn H0 falsch ist aber angenommen wird.'",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 's ist ,nach dem Test, kein Teil der Menge P,obwohl s Element von P ist'
+beschreibungTyp2 = 's ist, nach dem Test, Teil von der Menge P, obwohl s kein Element von P ist'
+# YOUR CODE HERE
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Wenn die H0 verwerfen obwhol H0 stimmt'
+beschreibungTyp2 = 'Wenn die H0 angenommmen wird obwohl H0 falsch ist'
+# YOUR CODE HERE
+#raise NotImplementedError()
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'H0 wird verworfen obwohl sie stimmt'
+beschreibungTyp2 = 'h1 stimmt und ho wird angenommen'
+# YOUR CODE HERE
+
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'H0 wird abgelehnt, auch wenn sie in Wirklichkeit whar ist '
+beschreibungTyp2 = 'H0 wird angenommen, auch wenn sie in Wirklichkeit falsch ist'
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'wenn die Nullhypothese zurückgewiesen wird, obwohl sie in Wirklichkeit wahr ist'
+beschreibungTyp2 = 'dass der Test die Nullhypothese fälschlicherweise nicht zurückweist, obwohl die Alternativhypothese korrekt ist'",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+beschreibungTyp1 = 'Fehler von Typ 1 liegt vor, wenn die Nullhypothese abgelehnt wird, obwohl sie eigentlich wahr ist'
+beschreibungTyp1 = 'Fehler von Typ 2 liegt vor, wenn die Nullhypothese angenommen wird, obwohl sie eigentlich falsch ist'
+
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Die H0 Hypothese ist wahr, aber sie wird abgelehnt'
+beschreibungTyp2 = 'Die H0 Hypothese ist falsch, aber sie wird angenommen'
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+#raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+beschreibungTyp1 = 'H0 ist wahr und wird zu Unrecht verworfen'
+beschreibungTyp2 = 'H0 ist falsch und wird zu Unrecht beibehalten'",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ein Fehler erster Art besteht darin H0 abzulehnen obwohl H0 richtig ist.'
+beschreibungTyp2 = 'Ein Fehler zweiter Art besteht darin H0 nicht abzulehnen obwohl H0 falsch ist.'
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+beschreibungTyp1 = 'Der Hypothese wird nicht für richtig erkannt, obwohl diese vorliegt.'
+beschreibungTyp2 = 'Die alternative Hypothese wird für falsch erkannt, obwohl diese wahr ist.'",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ein Fehler vom Typ 1 (auch gennant alphafehler) liegt vor wenn durch den Hypothesentest H0 abgelehnt wird, aber die H0-Hypothese in echt wahr ist.'
+beschreibungTyp2 = 'Ein Fehler vom Typ 2 (auch gennant betafehler) liegt vor wenn durch den Hypothesentest H0 angenommen wird, obwohl die H1-Hypothese in echt wahr ist.'
+# YOUR CODE HERE
+beschreibungTyp1 = 'Ein Fehler vom Typ 1 (auch gennant alphafehler) liegt vor wenn durch den Hypothesentest H0 abgelehnt wird, aber die H0-Hypothese in echt wahr ist.'
+beschreibungTyp2 = 'Ein Fehler vom Typ 2 (auch gennant betafehler) liegt vor wenn durch den Hypothesentest H0 angenommen wird, obwohl die H1-Hypothese in echt wahr ist.'
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = '... gegen die Nulllhypothese entschieden wird, obwohl sie tatsächlich wahr ist.'
+beschreibungTyp2 = '... für die Nullhypothese entschieden wird, obwohl sie tatsächlich falsch ist.'
+
+print(beschreibungTyp1)
+print(beschreibungTyp2)",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'H0 wahr ist, die Hypothese jedoch aufgrund des Tests abgelehnt wird.'
+beschreibungTyp2 = 'H0 falsch ist, die Hypothese jedoch aufgrund des Tests nicht abgelehnt wird.'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Als alpha fehler bekannt: wenn H0 fälschlicherweise verworfen wird'
+beschreibungTyp2 = 'Als beta fehler auch bekannt: wenn Ho beibehalten ist obwwohl H1 wahr ist '
+print(beschreibungTyp2)
+print(beschreibungTyp1)",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+beschreibungTyp1 = 'die H0 Hypothese fälschlicherweise abgelenht wird'
+beschreibungTyp2 = 'doe H0 Hypothese fälschlicherweise akzeptiert wird'
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+beschreibungTyp1 = 'Ein Fehler vom Typ 1 liegt vor, wenn die H0 Hypothese fälschlich widerlegt wurde.'
+beschreibungTyp2 = 'Ein Fehler vom Typ 2 liegt vor, wenn die H0 Hypothese fälschlich akzeptiert wurde obwohl die H1 Hypothese korrekt gewesen wäre.'
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'alphaFehler: Die H0 Hypothese stimmt aber wird fälschlicherweise verworfen. H1 wird angenommen'
+beschreibungTyp2 = 'bethaFehler: Die H1 Hypothese stimmt aber wird fälschlicherweise verworfen.H0 wird angenommen'
+
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'False Negativ, H0 ablehnen, obwohl eigentlich richtig'
+beschreibungTyp2 = 'False Positiv, H0 annehmen, obwohl eigentlich falsch'
+
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Wenn die Nullhypothese zurückgewiesen wird, obwohl sie wahr ist'
+beschreibungTyp2 = 'Nullhypothese wird bestätigt, obwohl nicht korrekt'
+# YOUR CODE HERE
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'H0 zutrifft, jedoch verworfen wird'
+beschreibungTyp2 = 'H0 nicht zutrifft, jedoch angenommen'
+
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ein Fehler vom Typ 1 liegt vor, wenn H1 angenommen wird und H0 wahr ist'
+beschreibungTyp2 = 'Ein Fehler von Typ 2 liegt vor, wenn H0 angenommen wird und H1 wahr ist'
+# YOUR CODE HERE
+
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'wenn H1 angenommen wird, aber H0 wahr ist (False Negative). '
+beschreibungTyp2 = 'wenn H0 angenommen wird, aber H1 wahr ist (False Poitive).'
+
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+","
+"
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ein Fehler vom Typ 1 liegt vor, wenn die H0 Hypothese wahr ist, aber dennoch abgelehnt wird.'
+beschreibungTyp2 = 'Ein Fehler vom Typ 2 liegt vor, wenn die H0 Hypothese falsch ist, aber dennoch angenommen wird.'
+# YOUR CODE HERE
+
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'H0 verworfen wird, obwohl H0 richtig ist (false negative)'
+beschreibungTyp2 = 'H0 falsch (H1 richtig) ist, H0 wird aber behalten (false positive)'
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+# H0 ist gegen der annahme
+beschreibungTyp1 = 'H0 werden falsch angenommen'
+beschreibungTyp2 = 'H0 werden falsch abgelehnt'
+
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Wenn jemand in P1 erkrankt ist'
+beschreibungTyp2 = 'Wenn jemand in P2 erkrankt ist'",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Die Nullhypothese wird zurückgewiesen obwohl sie wahr ist'
+beschreibungTyp2 = 'Die Nullhypthose wird angenommen obwohl H1 korrekt ist'
+# YOUR CODE HERE
+
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+
+# YOUR CODE HERE
+beschreibungTyp1 = ""Ein Fehler von Typ 1 liegt vor, wenn H0 wahr ist und wir H1 angenommen haben (Alpha-Fehler)""
+beschreibungTyp2 = ""Ein Fehler von Typ 2 liegt vor, wenn H1 wahr ist und wir H0 angenommen haben (Beta-Fehler)""
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Falsches Positiv'
+beschreibungTyp2 = 'Falsches Negativ'
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Das Subjekt s ist aus P2, obwohl angenommen wird, dass es aus P1 ist'
+beschreibungTyp2 = 'Das Subjekt s ist aus P1, obwohl angenommen wird, dass es aus P2 ist'
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'eine wahre Nullhypothese wird fälschlich verworfen'
+beschreibungTyp2 = 'eine falsche Nullhypothese wird ""angenommen""'
+# YOUR CODE HERE
+#raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'When the nullhypothesis is rejected but in reality it is correct. (false possitive)'
+beschreibungTyp2 = 'The opposite of type one i.e. the nullhypothesis is accepted when in reality it is no correct.'
+
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ein Fehler vom Typ 1 liegt vor, wenn ich die H0-Hypothese fälschlicherweise ablehne, also Sie ablehne obwohl diese in der Realität stimmt.'
+beschreibungTyp2 = 'Ein Fehler vom Typ 2 liegt vor, wenn ich die H0-Hypothese fälschlicherweise annehme, also die H0-Hypothese annehme, obwohl in der Realität die H1-Hypothese stimmt.'
+# YOUR CODE HERE
+#fertig
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+beschreibungTyp1 = 'H1 wird angenommen aber es stellt sich heraus, dass H0 wahr ist.'
+beschreibungTyp2 = 'H0 wird angenommen aber es stellt sich heraus, dass H1 wahr ist.'",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'False Negativ, H1 wird angeommen, H0 Hypothese ist wahr'
+beschreibungTyp2 = 'False Positive, H0 Hypothese wird angenommen, H1 ist wahr'
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'H0 verworfen wird, obwohl H0 stimmt (alpha-Fehler)'
+beschreibungTyp2 = 'H0 beibehalten wird, obwohl H1 stimmt (beta-Fehler)'
+# YOUR CODE HERE
+beschreibungTyp1 = 'H0 verworfen wird, obwohl H0 stimmt (alpha-Fehler)'
+beschreibungTyp2 = 'H0 beibehalten wird, obwohl H1 stimmt (beta-Fehler)'
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+beschreibungTyp1 = 'false positive'
+beschreibungTyp2 = 'false negative'
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+beschreibungTyp1 = 'Wenn der Test H0 ablehnt obwohl H0 zutrifft.'
+beschreibungTyp2 = 'Wenn der Test H0 unterstützt obwohl H0 falsch ist.'
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Wenn die Nullhypothese zutrifft, der Test sie aber ablehnt'
+beschreibungTyp2 = 'Wenn die Nullhypothese nicht zutrifft, der Test sie aber annimmt'
+# YOUR CODE HERE
+#raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Wenn H0 korrekt ist, aber H0 als falsch eingeschätz wird (False Positiv)'
+beschreibungTyp2 = 'Wenn H0 falsch ist, aber H0 als richtig eingeschätz wird (False negativ) '
+
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ein Fehler von Typ 1 liegt vor, wenn H0 wahr ist, jedoch abgelehnt wird.'
+beschreibungTyp2 = 'Ein Fehler von Typ 2 liegt vor, wenn H0 falsch ist, aber durch den Test angenommen wird.'
+
+
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+beschreibungTyp1 = 'Ho wird verworfen obwohl sie stimmt'
+beschreibungTyp2 = 'Ho wird beibehalten obwohl sie falsch ist'
+# raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'H0 ist wahr, wird aber abgelehnt = alpha-Fehler'
+beschreibungTyp2 = 'H0 ist nicht wahr, wird aber angenommen = beta-Fehler'
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'H0 wird fälschlicherweise angenommen'
+beschreibungTyp2 = 'H0 wird fälschlicherweise abgelehnt'
+# YOUR CODE HERE
+#raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+beschreibungTyp1 = 'die Nullhypothese stimmt und verworfen wird'
+beschreibungTyp2 = 'die Nullhypothese NICHT stimmt und beibehalten wird'",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Die H0 Hypothese stimmt, wird jedoch vom Test als falsch eingestuft (Alpha Fehler)'
+beschreibungTyp2 = 'Die H1 Hypothese wird abgelehnt, obwohl sie richtig ist (Beta Fehler)'
+
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Antwort 1'
+beschreibungTyp2 = 'Antwort 2.'
+# YOUR CODE HERE
+beschreibungTyp1 = 'Typ 1 Fehler liegt vor, wenn H0 wahr ist, aber abgelehnt wird.'
+beschreibungTyp2 = 'Typ 2 Fehler liegt vor, wenn H0 falsch ist, aber angenommen wird.'",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'H0 ist wahr, aber man entscheidet sich für H1'
+beschreibungTyp2 = 'H1 ist wahr und man entscheidet sich für H0'
+
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ein Fehler Typ 1 liegt vor, wenn H0 wahr ist, aber abgelehnt wird -> Alpha-Fehler'
+beschreibungTyp2 = 'Ein Fehler Typ 2 liegt vor, wenn H0 falsch ist, aber angenommen wird -> Beta-Fehler'
+# YOUR CODE HERE
+#raise NotImplementedError()
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ein Fehler des ersten Typs liegt vor, wenn die H0 wahr ist, aber dennoch verworfen wird (alpha-Fehler).'
+beschreibungTyp2 = 'Ein Fehler des zweiten Typs liegt vor, wenn die H0 falsch ist, aber nicht verworfen wird (beta-Fehler).'
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+beschreibungTyp1 = 'H0 verworfen wird, obwohl H0 stimmt'
+beschreibungTyp2 = 'H0 behalten wird, obwohl H1 stimmt'",
+2,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = '... die Nullhypothese widerlegt werden kann.'
+beschreibungTyp2 = '... wenn die Nullhypothese nicht widerlegt wurde, obwohl sie eigentlich nicht richtig ist.'
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+beschreibungTyp1 = 'H0 wird zurückgewiesen obwohl sie Wahr ist'
+beschreibungTyp2 = 'H0 wird nicht zurückgewiesen obwohl die Alternativhypothese korrekt ist'",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Typ1  und Typ2 müssen voneinander unabhängigsein'
+beschreibungTyp2 = 'Typ2  und Typ1 müssen voneinander unabhängigsein'
+# YOUR CODE HERE
+#raise NotImplementedError()
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ein Fehler vom Typ 1 liegt vor wenn die H0 Hypothese verworfen obwohl sie stimmt  '
+beschreibungTyp2 = 'Ein fehler von typ 2 liegt vor wenn die H0 hypothese behalten wird obwohl H1 stimmt'
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'wenn, ein Subjekt beiden Population angehört '
+beschreibungTyp2 = 'wenn, ein Subjekt keiner Population angehört'
+
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Die H0-Hypothese fälschlicherweise abgelehnt wurde'
+beschreibungTyp2 = 'Die H0-Hyptohese fälschlicherweise angenommen wurde'
+",
+2,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Beibehaltung der H0 Hypothese wenn s aus P1 oder P2 stammt / Verrwerfen der H0 Hypothese bei obwohl sie stimmt'
+beschreibungTyp2 = 'H0 Hypothese wird behalten obwohl H1 richtig ist'
+# YOUR CODE HERE
+
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ein Fehler vom Typ 1 liegt vor, wenn H1 angenommen wird, obwohl H0 wahr ist.'
+beschreibungTyp2 = 'Ein Fehler vom Typ 2 liegt vor, wenn H0 angenommen wird, obwohl H1 wahr ist.'
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Die H0-Hypothese abgewesen wird'
+beschreibungTyp2 = 'Die H0-Hypothese angenommen wird'
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Wenn die Nullhypothese H0 richtig ist, aber dennoch abgelehnt wird (Entscheidung für H1)'
+beschreibungTyp2 = 'Wenn die Gegenhypothese H1 richtig ist, man sich jedoch zugunsten der Nullhypothese entscheidet'
+# YOUR CODE HERE
+
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ein Fehler vom Typ 1 liegt vor, wenn H0 wahr ist aber abgelehnt wird'
+beschreibungTyp2 = 'Ein Fehler vom Typ 2 liegt vor, wenn H0 falsch ist aber angenommen wird'
+# YOUR CODE HERE
+
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ein Fehler vom Typ 1 liegt vor, wenn die Nullhypothese stimmt ,aber zurückgewiesen wird.'
+beschreibungTyp2 = 'Ein Fehler vom Typ 2 liegt vor, wenn die Nullhypothese eigentlich stimmt, aber nicht abgewiesen wird.'
+# YOUR CODE HERE
+
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Verwerfen der H0 Hypothese obwohl sie stimmt.'
+beschreibungTyp2 = 'H0 Hypothese wird behalten obwohl H1 richtig ist'
+# YOUR CODE HERE
+
+",
+2,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = '...die Hypothese H0 wahr ist (also realtität ist), aber wir die Hypthese tortzdem falsch ist.'
+beschreibungTyp2 = '..H0 falsch ist, aber wir sie tortzdem annhemen, also für wahr erachten.'",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'H0 Hypothese ist richtig, verwerfen die Hypothese allerdings'
+beschreibungTyp2 = 'H0 Hypothese ist falsch, nehmen sie aber fälschlicherweise an '
+# YOUR CODE HERE
+
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Nullhypothese wird abgelehnt, obwohl sie wahr ist'
+beschreibungTyp2 = 'Nullhypothese wird nicht abgelehnt, obwohl ALternativtest richtig ist'
+
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Typ 1, Wenn der Test H0 zurück weist , obwohl H0 korrekt ist '
+beschreibungTyp2 = 'Typ 2, wenn Test sich für H0 entscheidet, obwohl H1 richtig ist'
+
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'H0 Hypothese wird zurückgewiesen obwohl sie wahr ist'
+beschreibungTyp2 = 'H0 Hypothese wird bestätitgt obwohl sie falsch ist'
+# YOUR CODE HERE
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Die H0-Hypothese stimmt, aber H0 verworfen wird'
+beschreibungTyp2 = 'Wenn H1 stimmt bzw H0 nicht stimmt aber dennoch beibehalten wird'
+
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ein Fehler vom Typ1 liegt vor, wenn die H0-Hypothese zu Unrecht (fälschlicherweise) abgelehnt wird'
+beschreibungTyp2 = 'Ein Fehler vom Typ2 liegt vor, wenn die H0-Hypothese zu Unrecht (fälschlicherweise) angenommen wird'
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Die Nullhypothese zurückgewiesen wird, obwohl sie in Wirklichkeit wahr ist(False Positiv)'
+beschreibungTyp2 = 'Der Test die Nullhypothese fälschlicherweise bestätigt, obwohl die Alternativhypothese korrekt ist'
+# YOUR CODE HERE
+
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ein Fehler vom Typ 1 liegt vor, wenn bei dem Hypothesentest die Nullhypothese h0 zu Unrecht verworfen wird'
+beschreibungTyp2 = 'Ein Fehler vom Typ 2 liegt vor, wenn bei dem Hypothesentest die Nullhypothese h0 zu Unrecht beibehalten wird'
+
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'H0 wird abgelehnt, auch wenn sie in Wirklichkeit wahr ist'
+beschreibungTyp2 = 'H0 wird angenommen, auch wenn sie in Wirklichkeit falsch ist'
+# YOUR CODE HERE",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'H0 abgelehnt obwohl richtig'
+beschreibungTyp2 = 'H0 angenommen obwohl falsch'
+
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ein Fehler vom Typ 1 liegt vor, wenn die Nullhypothese abgelehnt wird, obwohl sie zutrifft'
+beschreibungTyp2 = 'Ein Fehler vom Typ 2 liegt vor, wenn die Nullhypothese nicht abgelehnt werden kann, obwohl sie nicht zutrifft.'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Die Person wird als gesund identifiziert, obwohl er krank/nicht gesund ist-->0 Hypothese wird trotz Richtigkeit zurückgewiesen'
+beschreibungTyp2 = 'Die Person wird als nicht gesund identifiziert, obwohl sie geund ist -->die 1 Hypothese(alterantive) wird trotz Richtigkeit nicht erkannt'
+
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = '... die Nullhypothese zurückgewiesen wird, obwohl sie wahr ist'
+beschreibungTyp2 = '... der Test die Nullhypothese nicht zurückweist, obwohl die Alternativhypothese korrekt ist'
+# YOUR CODE HERE
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Nullhypothese wird zurückgewiesen, obwohl sie wahr ist'
+beschreibungTyp2 = 'Nullhypothese wird angenommen, obwohl sie falsch ist'",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Hypothese wird verworfen obwohl die stimmt'
+beschreibungTyp2 = 'Hypothese wird angenommen obwohl die falsch'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ein Fehler von Typ 1 liegt vor, wenn H0 wahr ist und H1 angenommen wird.'
+beschreibungTyp2 = 'Ein Fehler von Typ 2 liegt vor wenn H1 stimmt und H0 angenommen wird.'
+# YOUR CODE HERE
+
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'die Nullhypothese H0 zurueckgewiesen wird, obwohl sie in Wirklichkeit wahr ist (bedingt durch falsch-positive Ergebnisse)'
+beschreibungTyp2 = 'die Nullhypothese H0 beibehalten wird, obwohl sie in Wirklichkeit falsch ist'
+
+#print(beschreibungTyp1, beschreibungTyp2)",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ein Fehler vom Typ 1 liegt vor, wenn die Nullhypothese abgelehnt wird, obwohl sie korrekt ist'
+beschreibungTyp2 = 'Ein Fehler von Typ 2 liegt vor, wenn die Nullhypothese akzeptiert wird, obwohl sie falsch ist'
+# YOUR CODE HERE
+#raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ein Typ 1 Fehler beschreibt ein False - Negativ, d.h. H0 sollte akzeptiert werden, wird jedoch fälschlicherweise abgeleht (Kranke Person wird als Gesund diagnostiziert, wenn H0 krank ist)'
+beschreibungTyp2 = 'Ein Typ 2 Fehler beschreibt ein False - Positiv, d.h. H0 sollte abgelehnt werden, wird jedoch fälschlicherweise angenommen (Gesunde Person wird als Krank diagnostiziert, wenn H0 krank ist)'
+
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'die H0-Hypothese zu Unrecht verworfen wurde.'
+beschreibungTyp2 = 'die H0-Hypothese zu Unrecht beibehalten wurde.'
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ein Fehler vom Typ 1 liegt vor, wenn H0 stimmt jedoch durch den Test verworfen wird'
+beschreibungTyp2 = 'Ein Fehler vom Typ 2 liegt vor, wenn H1 stimmt jedoch durch den Test H0 beibehalten wird'
+
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ein Fehler vom Typ 1 liegt vor, wenn die Nullhypothese zurückgewiesen wird, obwohl sie in Wirklichkeit wahr ist'
+beschreibungTyp2 = 'Ein Fehler vom Typ 2 liegt vor, wenn die Nullhypothese nicht zurückgewiesen wird, obwohl in Wirklichkeit die Alternativhypothese korrekt ist.'
+# YOUR CODE HERE
+
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Die H0 ist wahr, aber wird verworfen'
+beschreibungTyp2 = 'Die H0 ist falsch, aber wird angenommen'
+# YOUR CODE HERE
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'wenn die Nullhypothese abgelehnt wird, obwohl sie stimmt'
+beschreibungTyp2 = 'wenn die Nullhypothese angenommen wird, obwohl sie falsch ist'","
+"
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = '... die Nullhypothese korrekt ist, sie aber durch den Test abgelehnt wird'
+beschreibungTyp2 = '... die Nullhypothese falsch ist, sie aber durch den Test NICHT abgelehnt wird'
+# YOUR CODE HERE
+
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = '...die Nullhypothese abgelehnt wird, obwohl sie in Wirklichkeit wahr ist.'
+beschreibungTyp2 = '...die Nullhypothese akzeptiert wird, obwohl sie in Wirklichkeit falsch ist'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'H0 ist wahr aber der Test sagt, dass H0 nicht wahr ist.'
+beschreibungTyp2 = 'H0 ist falsch aber der Test sagt, dass H0 wahr ist. '
+# YOUR CODE HERE
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'H0 stimmt, wird aber faelschlicherweise verworfen'
+beschreibungTyp2 = 'H0 ist falsch wird aber verifiziert'
+
+","
+"
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Die Nullhypothese wird zu Unrecht verworfen'
+beschreibungTyp2 = 'Die Nullhypothese wird zu Unrecht beibehalten'
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ein Fehler vom Typ1 liegt vor, wenn die H0-Hypothese fälschlicherweise abgelehnt wird.'
+beschreibungTyp2 = 'Ein Fehler vom Typ2 liegt vor, wenn die H0-Hypothese fälschlicherweise angenommen wird.'
+
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Die H0-Hypothese wird fälschlicherweiese abgelehnt' 
+beschreibungTyp2 = 'Die H0-Hypothese ist falsch und wird trotzdem angenommen'",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'H0 trifft zu aber wird als falsch angesehen'
+beschreibungTyp2 = 'H0 trifft nicht zu wird aber vom test als richtig angesehen'
+# YOUR CODE HERE
+
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+beschreibungTyp1 = 'H0 ist wahr aber H1 wird angenommen; falsch negativ'
+beschreibungTyp2 = 'H1 ist wahr aber H0 wird angenommen; falsch positiv'
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Die Nullhypothese ist korrekt, wird aber fälschlicherweise verworfen'
+beschreibungTyp2 = 'Die Nullhypothese ist falsch, wird aber fälschlicherweise angenommen'
+# YOUR CODE HERE
+
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+
+beschreibungTyp1 = 'die H_0-Hypothese verworfen wird, obwohl sie richtig ist (falsch-negativ)'
+beschreibungTyp2 = 'hie H_0-Hypothese angenommen wird, obwohl sie falsch ist (falsch-positiv)'",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Die H0 abgelehnt wird, obwohl H0 korrekt ist'
+beschreibungTyp2 = 'Die H0 angenommen wird, aber H0 inkorrekt ist'
+
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+beschreibungTyp1 = ""false positive ist wenn die nullhypothese faelschlicherweise abgelehnt wird, also eine wirkung gesehen wird wo keine ist.""
+beschreibungTyp2 = ""false negative ist wenn die nullhypothese faelschlicherweise akzeptiert wird, also ein bestehender effekt nicht gefunden wird.""
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+beschreibungTyp1 = 'Verwerfen von H0 wenn H0 eigentlich richtig wäre'
+beschreibungTyp2 = 'Annehmen von H0 wenn H0 eigentlich falsch wäre'",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Wenn H0 verworfen wird und H0 aber korrekt ist'
+beschreibungTyp2 = 'Wenn H0 nicht verworfen wird, aber Hypothese H1 korrekt ist'
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Wenn eine H0 hypothese fälschlicherweise verworfen wird'
+beschreibungTyp2 = 'wenn eine H1 hypothese fälschlicherweise angenommen wird'
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = ' Beim Test einer Hypothese liegt ein Fehler 1. Art vor, wenn die Nullhypothese zurückgewiesen wird, obwohl sie in Wirklichkeit wahr ist'
+beschreibungTyp2 = 'Dagegen bedeutet ein Fehler 2. Art, dass der Test die Nullhypothese fälschlicherweise nicht zurückweist, obwohl die Alternativhypothese korrekt ist.'
+# YOUR CODE HERE
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ein Fehler vom Typ 1 liegt vor, wenn die Nullhypothese zurückgewiesen wird, obwohl sie wahr ist '
+beschreibungTyp2 = 'Ein Fehler vom Typ 2 liegt vor, wenn die Nullhypothese nicht zurückgewiesen wird, obwohl sie falsch ist'
+
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+
+
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+#raise NotImplementedError()
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'die Nullhypothese zurückgewiesen wird, obwohl sie in Wirklichkeit wahr ist.'
+beschreibungTyp2 = 'die Nullhypothese fälschlicherweise bestätigt wird'
+
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Wenn auf s eigentlich H0 wahr ist aber für H1 entschieden wird'
+beschreibungTyp2 = 'Wenn aus s H0 nicht zutrifft aber sich trotzdem für H0 entschieden wird'
+",
+4,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'die Nullhypothese wahr ist, aber abgelehnt wird'
+beschreibungTyp2 = 'die Nullhypothese falsch ist, aber fälschlicherweise angenommen wird'
+# YOUR CODE HERE
+
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Die Population ist gesund, aber man wird als krank angesehen'
+beschreibungTyp2 = 'Die Population ist krank, aber man wird als gesund angesehen'",
+0,"
+beschreibungTyp1 = ''
+beschreibungTyp2 = ''
+",
+0,"# Bitte ersetzen Sie den Inhalt der Variablen durch die Beschreibung der Fehlertypen
+beschreibungTyp1 = 'Ihre Antwort zum Fehler Typ 1'
+beschreibungTyp2 = 'Ihre Antwort zum Fehler Typ 2'
+# YOUR CODE HERE
+raise NotImplementedError()
+",

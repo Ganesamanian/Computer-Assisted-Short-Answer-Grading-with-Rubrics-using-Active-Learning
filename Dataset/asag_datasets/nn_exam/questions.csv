@@ -1,0 +1,52 @@
+id	question
+1	"Give a definition for the term ""artificial neural network"" and mention, how it resembles the human brain!"
+2	Define the mathematical model of a neuron, use the appropriate technical terms!
+3	Assume you want to binary classify linear separable data point using a perceptron. Write down the learning algorithm in pseudo code!
+4	Explain classification and regression; what is the difference?
+5	Write down the SOM learning in pseudo code.
+6	Give the basic idea of an SVM using the correct terminology!
+7	What role does the method of steepest decent have when learning a network?
+8	Define: a hypothesis $h \in H$ shatters a dataset $A \subseteq X \Leftrightarrow \ldots$
+9	Write down and explain the Widrow-Hoff learning rule!
+10	Explain back propagation, use the correct technical terms!
+11	When learning using steepest descent, explain the role of the learning rate? What is a danger?
+12	How does a Reduced Boltzman Machine work (main idea)?
+13	Define: Echo State Network (ESN), how are they different to FF NNs?
+14	Describe: the structure on an CNN.
+15	What are three items to be learned for an RBF network? Difference to other NNs, Pros/cons?
+16	Describe how learning based on k-nearest neighbors works, use pseudo code!
+17	Explain the Bias Variance Dilemma!
+18	Give the main properties of a SOM!
+19	Enumerate all learning rules, which you know!
+20	Define sigmoid functions and give at least two examples.
+21	Architectures of NNs fall into different classes, which?
+22	What do we understand by weight sharing?
+23	Write down and explain Hebb's rule!
+24	Compare pros and cons of RBFs and MLPs
+25	What are some principle problems in machine learning? Give explanations!
+26	How to remedy over-fitting?
+27	Give the main idea of Cover's theorem and where / how is it used?
+28	Explain the concept of Kernel functions used in SVMs!
+29	What does the Perceptron Learning Theorem tell us?
+30	What is three-way data split and how to use if for NN training?
+31	Explain the behavior of train and test error, if we add more and more training samples
+32	Define and explain the term local gradient in back-propagation!
+33	Reproduce the formulas for training error and test error!
+34	What is Newtons method in general? How can it be utilized for NNs?
+35	"What do we understand by ""momentum"" in context of learning?"
+36	"What is ""normalization"" of inputs?"
+37	When designing a feed-forward NN how to determine the correct number of layers?
+38	How many training examples are needed for training an NN?
+39	Give some examples of families of RBF functions!
+40	Enumerate and explain all variants of minimum complexity Echo State Network (mcESN)!
+41	Give an easy example  for a non-linear single feedback neuron systems which shows very complex behavior
+42	Why and how are recurrent NNs unfolded in back-propagation-through-time?
+43	What is a bifurcation and how does this relate to NNs?
+44	Describe two cases, why spheres in higher dimensions behave counter intuitive.
+45	What general underlying problem is solved when fitting models to data?
+46	What are Gabor functions in the context of CNNs?
+47	"Explain the term ""k-fold cross validation"""
+48	Give two robotical problems (at least) which may be solved using ESNs?
+49	Give samples for problems with can be solved using SOMs and explain how.
+50	Explain the central idea behind the Gauss-Newton method and where can it be applied in NN learning?
+51	Define max-pooling and the term ReLU in context of CNNs.

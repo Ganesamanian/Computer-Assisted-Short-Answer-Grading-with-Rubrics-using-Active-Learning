@@ -1,0 +1,478 @@
+id,score,feedback,answer
+Short_answer_A,"1,5","- Decomposition and abstraction are conceptually similar
+- Using closed world assumption and selecting only necessary features for localization, the computational cost can be greatly reduced ","   A continuous map representation can be modified as:
+   - Using abstraction 
+   - Representation in 2D instead of 3D 
+   - Using decomposition
+   - By the use of polygons to represent structures in the world"
+Short_answer_A,2,,"- A continuous map representation can be performed by enclosing the obstacles within a convex polygon.
+- In line based continuous map representation, using laser range finder, the distance to obstacles could be found out and the obstacles can be enclosed within many horizontal and vertical lines, the passes through the edges of the obstacles.
+- Since as the map size increases with the number of obstacles, a 2D representation of the environment is used"
+Short_answer_A,"1,5","- employing closed world assumption greatly reduces computaional cost
+","- We can use the continous map and modify it with filtering to have less noise.
+- Also we can modify the continous map to get a map with less details of the environment to reduce the computational complexity."
+Short_answer_A,1,"- closed world assumption
+- selecting only necessary features of environment
+- abstraction of the features by representing them as polygons or lines","-Continuous map cost more when 3D representation of environment is envovled.  If the representation is kept till 2D then the computational cost will be less. <br>
+-The map can be decomposed using map decomposition methods to reduce the computational cost if 3D representation is required."
+Short_answer_A,0,,"1. Continuous Map is very simple algorithm and it requires less parameters.
+2. It can be reduced by capturing only data points which are immediately relevant to localization."
+Short_answer_A,1,,"A continuous map reprensentation can be modified through decomposition to reduce computational costs. This means that the map is simplified, so it uses less costs."
+Short_answer_A,2,,"A continuous map representation can be used with a closed world assumption that only the objects represented in the map are present in the real world environment, and also by abstraction wherein the obstactles are represented as simpler geometrical shapes. This will reduce the amount of data that needs to be processed and will reduce the computational cost. "
+Short_answer_A,2,,"By employing way of abstraction and capturing closed environment, the cost would be reduced."
+Short_answer_A,1,"- employing closed world assumption
+- selecting only relevant features for representation
+- abstract representation of environmental features",By reducing the extra dimensionallity from the continuous maps could result in reducing the computational cost as well as extracting only abstract and the most relevant information from the environment.
+Short_answer_A,1,,By storing only the relevant objects and details.
+Short_answer_A,1,,"By using abstraction and capture relevant features, and neglect not so important information from the map, we can reduce the computational cost of the continuous map."
+Short_answer_A,2,,By using the continuous map representation with closed world world assumption approach.In this way the objects will be represented as lines and free spaces will be left alone.
+Short_answer_A,1,"- closed world assumption
+- selecting features only relevant for localization
+- representing 3D maps as 2D maps",can be repersent obestecls in polygons to reduce the computational cost
+Short_answer_A,1,,"combining a continous representation with a closed world assumption, this is an assumption that all the environmental features are speciefied in the map and that any section that is devoid of features has no corresponing features environment."
+Short_answer_A,1,"closed world assumption will also greatly reduce computational cost
+It can be further reduced by selecting only the features which are necessary for localization","Conitnous maps are computationally expensive. To reduce this computational cost, one can make use of convex polygon abstraction. To reduce the cost every relevant object for the map, like obstacles like walls etc. can be abstracted to be represented by said convex polygons, which only use a fraction of the computational cost, in comparisson to a normal continous map. They are not exact representations of the real world object, but try to mimic the obstacle as close as possible. To reduce the computational cost even more, the amount of polygons can be reduced, but at the cost of abstracting the given obstacle more and more. Higher polygon count will result in higher accuracy representation of the desired obstacle or object, but will increase the computational cost. "
+Short_answer_A,3,,"Continous map representation can be reduced taking the closed world assumption into cosideration where only regions with objects/obstacles are stored and all other non-object/free areas are left sparse. This result in a sparse map that is computationally and memory more efficient. 
+
+
+Another way is to add an extra layer of abstraction where features like straight lines are extracted from continous points and these sets of lines approximate the exact map to a reasinable degree. This way, instead of saving many points only line(groupimg multiple points) prameters are saved."
+Short_answer_A,"1,5","- closed world assumption greatly reduces the computational cost
+","Continuous map can be modified by applying abstraction to it. By means of abstraction, it means that to only store the features that are useful while discarding the rest of the data. This allows the data that is to be stored in the robots memory to have much less space."
+Short_answer_A,"1,5",- closed world assumption,"Continuous map can be modified in the followingways to reduce the computational cost:-
+
+1. Only the objects that can be detected by the sensor are taken into the acccount.
+2. Only the geometrical features which are relevant for the localisation are taken into account."
+Short_answer_A,"1,5",employing closed world assumption greatly reduces the computational cost ,"continuous map representation be modified to reduce the computational cost by
+* using the abstraction 
+* capturing only the important environment feature
+"
+Short_answer_A,2,,"Continuous map representation be modified to reduce the computational cost by the following methods:<br>
+1, By Assuming a Closed World Model or by limiting the environment<br>
+2, By extracting and retaining olny features relevent to the current problem, this can be done through decomposition and feature extraction<br>"
+Short_answer_A,1,,Continuous map representation captures numerical representations of the objects and places. It can be modified to only capture relevant information for the desired application such as capturing lines to detect walls and corridors.
+Short_answer_A,0,"- employing closed world assumption greatly reduces the computational cost 
+- selecting and representing maps with only features necessary for localization. Abstraction of these features as polygons or straight lines will reduce the computaional cost.
+- different map ecomposition techniques reduces the computational cost of its application.
+",Continuous map representation has more computational cost because if there is a movement while the mapping is being done then the map needs to be re-mapped without the unwanted obstacle. If this is avoided then the computational cost can be reduced.
+Short_answer_A,2,,"Continuous map representations show the environment as it is in the form of a map and hence it is computationally expensive. To reduce the computatinal cost, we can use abstraction to decompose the continuous map into a set of infinite straight lines. "
+Short_answer_A,2,,"Continuous maps represents the environment in terms of obstacles. In order to reduce the computational cost of the map, obstacles can be represented as **convex polygons**."
+Short_answer_A,1,,For continuous map representation we can use the abstraction to only store important details that are still sufficient to represent the environment.
+Short_answer_A,2,,It can reduce the computational cost by employing abstraction and taking only the most relevant environmental features. The cost can hence be reduced with close world assumptions techniques in continuous map representation.
+Short_answer_A,1,,The abstraction is the method which helps to reduce the computational cost in continuous map representation. Abstraction is a method of extracting the essential features of the environment and representing only these important features in the map representation.
+Short_answer_A,2,,"The computation cost of a continuous map representation can be reduced by using abstraction and only extracting the relevant features in the environment. With the use of the closed-world assumption, continuous map representations can be made less costly."
+Short_answer_A,1,,The computational cost can be reduced by sampling with most relevant polygonal features in 2D in terms of infinite simplifiied lines and considering void spaces as null spaces.
+Short_answer_A,2,,"The computational cost of a continuous map representation can be reduced by abstraction. Objects are reduced to 2D shapes, such as polygons. This omits futher details like color, texture, etc, but reduces the cost of the map. Further reduction can be done by reducing the objects to sets of infinite lines. Furthermore, the closed-world assumption allows all irrelevant objects to be ignored from the map, only including those that can affect the robot. "
+Short_answer_A,2,,The computational cost of continuous map can be reduced by having <br>closed world assumptions.<br>Considering only the important/required features<br>having abstract knowledge of the features
+Short_answer_A,2,,The continous map representation can be modifed to reduce the computational costs by considering only the close world assumption. This means that the features that are present in the world are represented as straight lines. 
+Short_answer_A,2,,"The continuous map representation can be abstracted to various geometric shapes and also use a low resolution map. In addition to this, the continous maps can be represents as topological maps."
+Short_answer_A,0,,"Using map decomposition to extract abstract and useful information and discard the information that has no contribution from the real environment.
+By representing obstacles with simple polygon."
+Short_answer_A,2,,We can apply fixed cell decomposition method to convert the continuous map to the type of occupancy grid.
+Short_answer_A,2,,"Yes, the continuous map representation can be modified to reduce the compuatational cost by following steps:
+1. Closed world representation
+2. Represent features as abstract forms
+3. Represent only useful features, say for example: walls can be represented as lines."
+Short_answer_A,0,,YOUR ANSWER HERE
+Short_answer_A,1,,"YOUR ANSWER HERE
+
+
+Continuous map representation can be modified to reduce computational cost by laser sensor reading as it is gives us the direct best fit line for continuous map representation. Further we should stress on only important relevant information/ features and disarding the rest. It represents the geometric representation and not to the secondary features like texture, color, elasticity etc.    "
+Short_answer_B,3,,"- Since the size of the continuous map increases with the object density, representing everything in 3D is computationally not feasible and the amount of memeory required to store it is high.
+- Also the objects with complex shapes needs to be enclosed by a very complicated polygons which is also a complex process."
+Short_answer_B,2,,"-Continuous maps can be used for 3D representation but the computational cost will be more. As the dimentionality increases, it becomes difficult to have a geometrical representation of the environment objects. Hence, the conputational cost increases to calculate the 3D representation."
+Short_answer_B,0,,"1. Continuous maps can't be used for 3D representations.
+2. Continuous maps take 2D slice of surrounding environment and plots data for it.
+3. So, it can't be implemented for 3D representation."
+Short_answer_B,2,,A continuous map for 3D representations can be done but are very computationally expensive and can cause computation explosion.
+Short_answer_B,2,,"A continuous mapp cannot be used for 3D, mobile robots used it for 2D as further dimensionality can result in computational explosion. "
+Short_answer_B,2,Computational cost of representing  an environment using continuous map increases exponentially with the dimensionality of the map,"As continous maps are computationally expensive, they cannot be used for 3D representations"
+Short_answer_B,2,,"Caontinuous maps can be used for 3D representations, but they are not advisable. As they capture rich data, the storage will increase to capture the 3D environment which leads to complex computations."
+Short_answer_B,2,,Continous maps in general are used only for 2D representations. This limitation is due to that the higher dimensional data requires higher computational power and might lead to computational explosion. 
+Short_answer_B,2,,Continuois maps can not be ideally used for 3d representaion because it will increase the computational cost as well as higher space complexity for 3d map representation.
+Short_answer_B,2,,"Continuous map cannot be used for 3D representations since it increases complexity and additional cost.<br>In today's robotics engineering, it is limited to use for 2D maps"
+Short_answer_B,2,,Continuous map could be used for 3D representations but it will not be recommended as a dramatic overload in data transfer and too high computational cost.
+Short_answer_B,2,,"Continuous map representations attempt to recreate the environment in a continuos space and the different obstacles are represented as infinte lines. While it might be feasible with 2D data, when it comes to 3D representations, the amount of data that will need to be processed will result in a computational explosion. While modern processors might be able to handle the huge load, it is still too large a task for mobile robots, and appropriate decomposition and approximation techniques must be used before they can be used in any actual application."
+Short_answer_B,2,,Continuous maps are not suitable for 3D representation. The **computational complexity** and **computational cost** will drastically increase while representing 3D.
+Short_answer_B,2,,"Continuous maps can be used for 2D representation, as it converts the data it recieves in a 2D plane. But, if the dimensions are increased, the computational cost increases exponentially. So, in other words, continuous maps cannot be used for 3D representation."
+Short_answer_B,2,,"Continuous maps can be used for 3D representations, but they come with high time and computational cost and an increase in memory size. As the dimensions of a continious map increases there is an exponential increase in time and computational cost."
+Short_answer_B,1,,"It cannot. Because continuous maps require large memory space and computational costly, it is not feasible in 3D representation."
+Short_answer_B,2,,No as it counsumes a lot of computational cost 
+Short_answer_B,2,,No it can not be used for 3D representation because that will cause a computational explosion.
+Short_answer_B,2,,"No, Continous map storage requirements will grow undesirabely with the increase in the dimnesion of the space under observation. Being exact, continous map for 3D representation will require storing too many points that will saturate the memory resources."
+Short_answer_B,1,,"No, continuous maps are too computationally costly to be used with 3D. Because of the increased cost of 3D mapping, path planning and other tasks that use the map also have higher cost. This makes 3D continuous maps unfeasible. "
+Short_answer_B,0,It is computationally very expensive to represent 3D regions as continuous maps,"No, continuous maps can not be used for 3D representations because the continuous map representation is a way in which exact map decomposition is done. The division of the map into segments is possible in a 2D space rather than a 3D space. For 3D we can use topological map representations."
+Short_answer_B,1,,"No, continuous maps cannot be used for 3D Representations due to the computational limitations of using a continuous map for dimensionality other than 2D."
+Short_answer_B,2,,"No, continuous maps cannot ne used for 3D representation as they increase the computation complexity and there by requires more processing power."
+Short_answer_B,2,,"No, in my opinion continuous maps cannot be used for 3D representations. This is because continous maps are computationally expensive even in 2D and in 3D we may face a computational explosion."
+Short_answer_B,2,,"No, it is limited to 2D. The computational cost of the 3D continuous representation would exceed the computational performance which is usually at an autonomous robot's disposal."
+Short_answer_B,2,Mostly due to computaional cost than memory,"No.
+
+Continuous maps cannot be used for 3D representations because deploying the points to 3D will make the calculation complex and it takes lot of processing time and memory "
+Short_answer_B,2,,No. Becuase continuous maps are the 2d slice of the environment. Adding an extra dimension would increase computational const.
+Short_answer_B,1,,"Technically, continous maps could be used for 3D representations. However, currently that would cause too much computational cost and therefore is not done in practice. It's possible that it could be used in the future with more powerful computers."
+Short_answer_B,2,,"The continuous map can not be used for 3d representation because of the following reason:
+
+1. The enourmous data that will be produced by continous maps will lead to computational explosion
+2. In result we can say the processing of such data is untenable if we use continous map for large data to represent."
+Short_answer_B,2,,The continuous maps cannot be used for 3D respresentations because the representing 3D space in continuous map will cause computational explosion
+Short_answer_B,2,,"Theoretically yes, but it is hardly used for 3D representation because computation cost would be dramatically increased."
+Short_answer_B,2,,"They can, but only if the desired robot or system can manage the exploding computational cost, which a 3D map will introduce. Due to the exploding computational cost of a 3D map, 2D maps are preferred, due to the way less calculation power needed by the implementing system."
+Short_answer_B,1,,"Yes it can, since the main issue is the computational complexity and this can be reduced by abstracting and capturing only the usefull features or relevant features. "
+Short_answer_B,2,,Yes it is possible to use continuous map for 3D representations but it is not efficient to do so because it increases the computational cost.
+Short_answer_B,0,It will be computationally very expensive to represent 3D regions using continuous maps,"Yes we can combine them to make 
+
+"
+Short_answer_B,1,,"Yes, continuous maps can be used for 3D representations. The problem with 3D representation is that is will required more memory and the computational capacity to work with this map will also be higher."
+Short_answer_B,2,,"Yes, it can be used for 3D representation but computational cost will be very high in that case."
+Short_answer_B,1,,"YOUR ANSWER HERE
+
+
+No, continuous map representation can not be used in 3D representation because it adds more compelxity to the map. more complexity means more features to extract and it would result in more reasoning required in further cognition, planning phases.  Complexity of the map is reduced by using only relevant information.  "
+Short_answer_C,2,,"- Exact cell decomposition is decomposing by creating boundaries between the free space and the geometrical cricality whereas the fixed cell decomposition is decomposing as the discrete approximation of the environment.
+
+- Exact cell decomposition is both sound and complete whereas fixed cell decomposition is sound but not complete because of its inexact nature.
+
+- Exact cell decompoistion is not feasible as it represents the environment in the form of complete free or occupied space and if getting this information is expensive then exact cell decomposition is not feasible whereas fixed cell decomposition is feasible.
+
+- Exact cell decomposition can handle the narrow passages but fixed cell decomposition cant't."
+Short_answer_C,0,"- In exact decomposition, the map is decomposed into areas of free spaces using lines based on the geometrical criticality/features of the objects. 
+- In fixed decomposition, the map is divided into discrete grids irrespective of the positions of the objects. These grids are used for representing discrete locations of robot and occupancy status of an object.",- Exact decomposition give the map of the environment as it is
+Short_answer_C,1,,"- Exact decomposition is a continuous map representation where the map is divided into blocks of free spaces, which when combined forms the total free space.
+- Fixed decomposition is the discrete map representation where the map is divided into discrete cells of occupied and free cells that are denoted by 1's and 0's."
+Short_answer_C,2,"In exact decomposition, the map is decomposed into areas of free spaces using lines based on the geometrical criticality/features of the objects.
+In fixed decomposition, the map is divided into discrete grids irrespective of the positions of the objects. These grids are used for representing discrete locations of robot and occupancy status of an object.","- Exact decomposition: In exact decomposition, the world is represented as polygons of objects and continuous lines.
+- Fixed decomposition: In fixed decomposition, the world is represented as an approximation of objects in a grid like manner. "
+Short_answer_C,"1,5","In exact decomposition, the map is segmented into free areas based on the geometrical critcality of the objects in the environment","- In exact cell decomposition,  the mapping are obtained from the segmentation, that is area based representation.
+- A better aned accurate form of decomposition is the fixed cell decomposition in which the map is divided into cells of fixed size and each cell has the information if it's occupied or not. Example: Occupancy grid maps"
+Short_answer_C,2,,"- In exact decomposition, the critical points of the obstacles are used to form the boundary of the freespaces. The size of each freespace is not uniform. They can vary. In fixed decomposition, the size of all cells of the map are the same.
+- As the number of cells are less in exact decomposition, navigation is easier because of lesser nodes to represent them as compared to that of fixed one.
+- In fixed decomposition, the narrow passages may get destroyed upon decomposition. So it is not complete. In exact one, the passage is preserved.
+- The precision and accuracy is higher for fixed decomposition based on the resolution of the smallest cell. In exact decomposition, the robot can be anywhere within the cell."
+Short_answer_C,0,"- In exact decomposition, the map is decomposed into areas of free spaces using lines based on the geometrical criticality/features of the objects. 
+- In fixed decomposition, the map is divided into discrete grids irrespective of the positions of the objects. These grids are used for representing discrete locations of robot and occupancy status of an object.","* Exact decomposition are not feasible but fixed decomposition are feasible
+* Exact decomposition  depicts in obstacle free and free area  while transformation while fixed decomposition depicts  in obstacle fill and free area 
+* Exact decomposition decompose by grid cells ard fixed decomposition transllates the real world "
+Short_answer_C,0,,"1. Exact cell deomposition is extremely compact representation. 
+2. For exact cell decomposition, we can't program robot motion in free space. Whereas in fixed cell decomposition, robot motion can be easily manipulated from free space.
+"
+Short_answer_C,2,Fixed decomposition: the map is represented as discrete grids/polygons ,"1. Exact decomposition - It decomposes the map based on the geometrical representation of the environment. It consider the environment as free space and divide it based on the geometrical shape of the object present in the environment. It uses continous map for the decomposition. It considers the divided space as nodes and establishes links between every adjacent node.
+
+- But exact decomposition is not useful for unknown environment. For this fixed decomposition in used.
+
+2. Fixed decomposition - In fixed decomposition, the continous real world is tranformed into approximation matrix. The environment along with its objects is divided into matrix and the each cell is shows whether it consists any part of the object ibn  it by colouring the cell as black. "
+Short_answer_C,2,,"1. Exact decomposition: determine the boundaries based on the geometry of obstacles or objects on the map, keep the map as same as the original map.
+
+2. Fixed decomposition: convert the continous map to the discrete map which follow the occupancy grid rule (the cell which contains any single black pixel will be completely black)"
+Short_answer_C,2,,"1. Exact decomposition: In this decomposition the world is tessellated as excet cells where free spaces and occupied spaces are  represented as individual nodes. This is generally lossless representation.  
+
+2. Fixed decomposition: In this decomposition the world is tessellated as discrete approximation my means of grids or cells. Some features are lost in this decomposition."
+Short_answer_C,2,,"1. In exact cell decompostion, all the objects in the world are represented as polygons. These polygons depend on the shape of the object detected.
+
+2. In fixed cell decomposition, objects are represented in the form of an occupancy grid in which each cell, 0 can denote unoccupied and 1 as occupied. "
+Short_answer_C,1,"Exact decomposition divides a map into segments of free areas based on the geometrical features of obstacles. In fixed decomposition, the map is divided into discrete grids irrespective of the positions of the objects. These grids are used for representing discrete locations of robot and occupancy status of an object.","Decomposition is way of split the map with smaller pathes of map. For exact decomposition, the target is continuous map. On the other hand, the input of fixed decomposition is descretized map. "
+Short_answer_C,2,,"Difference between exact and fixed decomposition:
+
+1. The exact decomposition is mainly used for the known map in which we divide the map into cells on the basis of the geometry of the obstacles. In the the formed mapl, robot can traverse in cells by not considering the exact path.
+2. In Fixed cell decomposition on the other hand, a grid of polygons is layed onto the map in which map is devided into those those polygons and the different grid cells represent either a filled or empty cell. This is suitable for the unknown map. Robot can also have a exact path form initial to final position."
+Short_answer_C,2,,"Difference-
+Exact Decomposition covers the space into a polygonial area of free space. The representation is compact as each area is stored as a single node. 
+Fixed Decomposition, regardless of environmental parameters will impose a geometerical map. In fixed decomposition, the narrow passages are lost while mapping."
+Short_answer_C,2,,"Exact cell decomposition creates a save map, which depicts exactly where the obstacles are. Fixed cell decomposition creates an approximation of the map by reducing the amount of cells/pixels and blocking areas in which at least a part is occupied by obstacles. Fixed cell decomposition reduces the amount of computational costs, but also possibly loses small passageways."
+Short_answer_C,2,,"Exact cell decomposition decomposes the map into free spaces and obstacles.
+
+Large free spaces are considered as single node in exact cell decomposition
+
+-----
+
+Fixed cell decomposition tessalates the map into a grid and assign values based on the occupancy of each cell.
+
+Both obstacle and free space are treated as equal size cells with different values in fixed cell decomposition"
+Short_answer_C,"1,5",exact cell decomposition divides the map into regions of free spaces with respect to geometrical criticalitites of the obstacles. ,"Exact decomposition achieves its decompostion by making sections between discrete cells wrt geological criticalities. Whereas in Fixed decomposition, the world is tessalated, and the data that is recieved from real-time continuous map is converted to discrete."
+Short_answer_C,2,,"Exact decomposition creates segmentation/area from the obstacle boundaries/edges on the map, so it doesn't affect the original map and that's why it's lossless form of decomposition. Whereas fixed cell decomposition imposes fixed grid on to the map, and thereby it reduces down the details of the map (for example it may loss narrow passages from the map). Exact decomposition is computationally expensive compare to fixed cell decomposition."
+Short_answer_C,2,,"Exact decomposition exactly decomposes real objects into a map representation. In the case of our polygon map, this was done by drawing a line to each vertice of each object. The cells created by these lines then perfectly described free space around objects. 
+
+Fixed decomposition tesselates the real world with a grid. Cells of the grids are marked as free or occupied based on the presence of an object in that cell."
+Short_answer_C,3,,"Exact decomposition is a type of decomposition, which decides the boundaries based on geometry. The main assumption considered here is that the robot's position within an area does not matter. Thus, the exact decomposition is a function of the environment free space and obstacles.
+On the other hand, fixed decomposition transforms the continuous real environment as discrete approximations for the map. This depicts obstacle-filled and obstacle free areas."
+Short_answer_C,2,,"Exact decomposition is decomposing the map into segments based on the objects in the map and the robot travels from segments to segment if there is no object in the particular segment. <br>
+Fixed decomposition, the whole map is divided into grids and the grid is either 1 or 0 representing filled with obstacle or not."
+Short_answer_C,2,,"Exact decomposition makes use of the geometrical features provided by the environment, like corners of geometrical objects etc. It uses these provided features of interest, to form an exact decomposition of the given area and divide the area into smaller areas of free space. 
+
+In comparrison if the obtaining of these geometrical features from the environment is not feasible, e.g. cylinders, rounded of corners etc. one can make use of a so called fixed decomposition. In this the whole area will be divided into cells of equal size, until you have a grid overlaying the area. Then every cell which contains even the slightest fraction of an object, will be marked as occupied, and therefore blocked. cells which do not contain any part of an object/obstacle will be marked as free. This creates a occupancy grid map, by which the robot can determine if a cell/area is free to be traveresed."
+Short_answer_C,2,,"Exact decomposition: In this the map is tessellated into free spaces and obstacle. It requires low memory to represent the map. the memory requirement depends on the density of objects in the environment. The exact decomposition reuires very low memory in case of sparse environment
+
+Fixed decomposition: In this the map is discretized into discrete cell (like occupancy grid). In exact decomposition the free space is not tessellated further but in fixed decomposition the free space and obstacles are discretised into cells. The memory requirement depends on the size of individual cell. Smaller the cell size larger the memory required to represent the map. In fixed decomposition, the cell contains values like 0 - incase of free space and 1 - incase of obstacle"
+Short_answer_C,2,,"Exact decomposition: Selecting the boundaries of the obstacle based on critical geometric.
+
+Fixed decomposition: Embedding the real environment in the map and transforming the continunous map into discrete map, where the obstacle is approximated."
+Short_answer_C,"1,5",exact decomposition divides map into free spaces based on the geometrical features of the objects,"excat decomposition divide the teh map into free space grids 
+fixed decomposition divide the map into equal space grids  "
+Short_answer_C,2,,"In an exact decomposition, the map is represented as a lossless version of the environment. These kind of maps have higher resolution. However, the fixed cell maps approximate the environment to a cell. And this cell determines the resolution of the map. This method can be easily represented in a digital system."
+Short_answer_C,2,,"In case of fixed decomposition, the map is divided evenly as a grid. The exact position of the robot matters.
+
+In case of exact decomposition, the map is divided unevenly. Vertical lines divide the map by the verticies of the objects. The exact position of the robot within a cell does not matter."
+Short_answer_C,0,,"In exact cell decomposition the decomposition is achieved by selecting boundries between the discrete cell based on geometric criticality and the guiding principle is always the free space. 
+In fixed cell decomposition the decomposition is achieved by converting contineous real environemnt in to discrete approximation. If the cell is partially occupied by an obstacle, it is considerd as fully occupied unlike in exact cell decomposition."
+Short_answer_C,2,,"In exact cell decomposition the map is divided into cells baised on the shape of the objects present on the map. The cells represent the free spaces in the map and this decomposition also contains the information about relation between these cells<br>
+In fixed cell decomposition the map is decomposed in grids of rows and coloums. With the grids containing obstacles filled and those that do not are left empty. It is a type of occupance grid map. As the size of the grid decreases there is an exponential increase in the memory size."
+Short_answer_C,2,,"In exact cell the map is decomposed vertically based on geometric criticallity. 
+In fixed cell decomposition the map is discreet approximation of the contineous real environment where the dicreet cell is considered fully occupied if partially covered. it results in increasing the narrow passages by overestimating the disreet cell."
+Short_answer_C,"1,5","In exact decmposition, the map is divided based on the geometrical criticality of the objects in the environment","in exact decomposition the environment is mapped as much exactly as possible and then divided into segments. These segments are named left to right & top to bottom. Then using this data a node graph is created thus mapping the path from start to goal.
+
+in fixed decomposition the continuous environment in real time is mapped. This map is then divided into small grids. If the obstacle occupies even a small portion of this grid, then the entire grid is marked as an obstacle. Using this data, the robot plans a path from start to goal."
+Short_answer_C,2,,"In exact decomposition the map is divided into cells based on the allignment of the obstacles. the most commom technique is to divide the map either horizontal or vertical based on the obstacle placement.
+
+In fixed decomposition the size of cell is fixed irrespective of the allignment of the obstacles in the map. The whole map is divided into fixed size cell and then based on the area covered by the obstacles the cells are mapped as free or occupied."
+Short_answer_C,2,,In exact decomposition the map is split into parts based on free spaces which can be turned into a graph and then can be used to search a certain target while in fixed decomposition the map is split into squares of equal size with each one assigned a occupancy value.
+Short_answer_C,2,,"In exact decomposition, the different regions of free space and obstacles are marked by the geometrical boundaries of the obstacles and the free spaces are considered as entire nodes. In a sparse environment, this will mean only a small number of nodes irrespective of the size of the environment. 
+
+Fixed decomposition on the other hand, divides the entire environment to be mapped into a grid of certain cell size, and then the cells with obstacles in them are marked. The amount of data will depend on the size of the map and the chosen cell size. If the cell size is smaller, it will give a more accurate representation at the cost of additional memory and processing, while a larger cell size would mean only a rough estimate of the obstacle will be provided, and sometimes useful information like narrow passageways between obstacles might be lost."
+Short_answer_C,1,,"In exact decomposition, we select boudaries between discrete cells based on geometric criticality, in the fixed decomposition the environment is transformed from continous real world into a descrete approximation."
+Short_answer_C,2,,"Well, the main differnce is that in fixed cell decomposition the cell size is fixed and in exact decomposition the cell size and shape is dependent on the free spaces between obstacles.
+
+In exact cell decomposition the map is split into a set of nodes of free areas using a set of straight lines. these nodes forms a graph that can be searched for a certain target.
+
+In fixed decomposition, the cell size is a predefined hyperparameter that has to be tuend to perserve resources while maintaining representation. e.g. the narrow passages may dissappeer if we use a big cell size."
+Short_answer_C,2,,"YOUR ANSWER HERE
+<table>
+    <tr>
+        <td>Exact cell decomposition</td>
+        <td> Fixed cell decomposition</td>
+    </tr>
+    <tr>
+        <td>Main guiding principle is free space</td>
+        <td>Main guiding principle is tesselation of the map into polygon shape.</td>
+    </tr>
+    <tr>
+        <td>It is not important where exactly is robot in the free sapce, but how robot traverse through the free space </td>
+        <td>Grid cells are occupied or free. We have variation of foixed cell called occupancy grid map.</td>
+    </tr>
+    <tr>
+        <td>Small passages are risky to traverse</td>
+        <td>small passages are lost in fixed cells</td>
+    </tr>
+
+</table>
+"
+Short_answer_D,2,-Incompatible with closed-world assumption ,"
+* As the environment increases its size, the memory it takes in robot to map will also increase, so it will create memory issues
+* It mainly work on geometric grid feature so the geometry sholud be the major feature in occupancy grid map"
+Short_answer_D,1,"-Memory requirement grows with increasing size of the map and with decreasing cell size. It reserves memory for grids to represent complete map, which is infeasible for bigger maps
+-Incompatible with closed-world assumption 
+-It can only represent geometrical features "," - Occupancy grid map does not represent the exact shape of the objects in the environment.
+ - The path found using the occupancy grid map can be longer than the optimal path because of this."
+Short_answer_D,2,,"- As the number of objects/ obstacles increases within the envrionment, the memory required for the map increases.
+- The map generation is slower and takes time.
+- closed world assumption is not possible
+- Since each cell needs to be represented by a counter, the amount of memeory needed is high.
+- Narrow spaces maynot be detected with this approach."
+Short_answer_D,2,,"- Occupancy grid maps are not efficient as the size of the environment increases the memory consumption increases.
+- Occupancy grid maps decompose on the basis of the geometry components so they are not suitable for the situation where geometry in not an essential feature."
+Short_answer_D,0,,"- The map has to be converted into a grid representation, and is overlapped on to the terrain which sometimes fails to capture the 3D information of the environment."
+Short_answer_D,"0,5","-Memory requirement grows with increasing size of the map and with decreasing cell size. It reserves memory for grids to represent complete map, which is infeasible for bigger maps
+-Incompatible with closed-world assumption 
+-It can only represent geometrical features 
+-Narrow passages are difficult to traverse with bigger cell size","#### Disadvantages of occupancy grid map
+
+- Sometimes it is not possible to accurately predict if there is an obstacle in a particular cell, due to the noisy sensor measurements.
+- #### Less accuracy in bigger space
+For a bigger environment, it is not possible to accurately predict if a cell is occupied with the sensor data, due to limitations in the sensor capabilities.
+
+- It is not possible to say if a cell is half-occuppied or completely occupied.
+
+"
+Short_answer_D,"1,5","-It can only represent geometrical features
+-Incompatible with closed-world assumption memory requirement increases with decreasing cell size.","1. If the distance between two objects is not sufficient then while converting them into matrix, the space between them can be ignored and even though robot can pass through them the map will not show any path.
+2. Occupancy grid map the storage space depends on the environemnt size. So, if less storage is specified for the map then it would not give accurate results."
+Short_answer_D,2,,"1. Occupancy grid take large memory space
+2. With increase in environment size, occupancy grid map size increases. For large environment occupancy grid map is not suitable"
+Short_answer_D,1,,"1. size of map in memory grow swith the size of environment.
+2. It is not compatible with closed world assumptions.
+3. In environments where freatures are not geometric, it is not useful."
+Short_answer_D,2,,"1. This map will be inaccurate in some cases where the obstacles are too close to each others.
+
+2. If the number of grid cell is too much, the computation cost could be seen as a burden for hardware."
+Short_answer_D,2,,"1) Occupancy grid map size grows as the environment size grows.
+
+2) Occupancy grid map uses fixed grid cell on to the map, so it reduces the granular details from the map."
+Short_answer_D,1,,"An occupancy grid map is a variation under fixed decomposition that overlays a grid over the environment to be mapped. Due to its design and functioning, some memory must always be kept available for each cell in the grid which will result in higher memory requirements. Also, this forceful overlay of the grid will mean that the geometric details of the map will be taken more into consideration."
+Short_answer_D,1,,An occupancy grid map needs high computational costs.
+Short_answer_D,2,,"Disadvantages of a occupancy grid map:
+
+    1. The occupancy grip map required higher memory as the number of grid cell increse.
+    2. The general closed world aussumption can not be made inorder to reduce memory usage."
+Short_answer_D,2,,Disadvantages of occupancy grid map is that the size of the map will grow as the robot analyses more environment. This wont be compatible with close world assumptions. And hence won't enable continous representation.
+Short_answer_D,1,"-Memory requirement grows with increasing size of the map and with decreasing cell size. It reserves memory for grids to represent complete map
+-Incompatible with closed-world assumption 
+-It can only represent geometrical features","If the resolution (amount of rows and collumns) is too low, the resolution of the map will mark larger portions of the area as not usable by the robot, even though only a small fraction of the cell is occupied by the obstacle/object. 
+This is particullarly unhelpful in events of narrow passages. If two objects are close together, but the gap is large enough for the robot to navigate through, the occupancy grid map, will most likely ""close"" of this narrow passage, and make it unusable for the robot. 
+To overcome this disadvantages, the resolution of the grid map can be increased, but at a higher computational cost. "
+Short_answer_D,2,,"In occupancy grid map, the map is divided into cell and the cells only have information such as its filled or not. So there is not information about the adjacent cells is encoded in the cell memory. The computational power required will be more in case of using occupancy gird for localisation/planning"
+Short_answer_D,1,"-Memory requirement grows with increasing size of the map and with decreasing cell size. It reserves memory for grids to represent complete map, which is infeasible for bigger maps
+-Incompatible with closed-world assumption 
+-It can only represent geometrical features","In occupancy grid map, the map is divided into grids. If the  obstacle occupies even a small portion of this grid, then the entire grid is marked as an obstacle. So if there is very little distance between two obstacles, after decomposition no space might be left between the obstacle thus the robot may be unable to find a path even if it is possible to navigate between the obstacles."
+Short_answer_D,"1,5",Incompatible with closed-world assumption and should reserve memory for grids to represent complete map,In Ocuupancy grid maps as the size of the grid decreases there is an exponential increase in the memory size but accompanied with an increase in accuracy. The occupancy grid maps are suited for creating local maps than global. Occupancy grid maps also lose information about partially filled spaces and density of the filled space. Narrow passages can also seem blocked in this map type.
+Short_answer_D,1,,"in the occupancy grid map it must have space set aside for all cells in the discrete grid matrix and this makes the size of the map in the memory grow more with the size of the environment. Also, it will impose a geometric grid on all environments and can be a disadvantage in siatuation were we are not looking for geometric features."
+Short_answer_D,1,"-It can only represent geometrical features
+-memory requirement increases with decrease in cell size
+-Incompatible with closed-world assumption",It consumes alot of memory as each grid have a value even if it is not explored yet and thus it become high in cost in terms of memory in large envriments or maps
+Short_answer_D,2,,occupancy grid grows along with the size of map it covers so it becomes memory expensive as it has to keep all the grid cells in the memory.
+Short_answer_D,2,,Occupancy grid map memory requirements increase significantly with the increase in map size as we use a predefined fixed cell size.
+Short_answer_D,1,,Occupancy grid map required huge computational power when the map is large and the window size is relative small. Because it takes more time to loop throught the whole map with a smaller window.
+Short_answer_D,1,"-Incompatible with closed-world assumption 
+-It can only be used to represent the geometrical features 
+-Increase in resolution also increases memory requirement",Occupancy grid map requires very large memory to store the map of the environment. with an incease in the size of environment the size of map increases which inreases computational complexity.
+Short_answer_D,2,,"Occupancy grid maps are limited in precision by the cell size. As the cell size decreases, the map gets more accurate but computational cost increases. This creates a large trade-off between accuracy and computational cost. Furthermore, in the case of the assignment, large cell sizes caused small pathways between obstacles to disappear, limiting the robot's available movement space."
+Short_answer_D,2,,Occupancy grid maps will eliminate narrow paths to the goal if the map resolution is low. Cannot respresent the envirnoment accurately.
+Short_answer_D,1,,"Some of the disadvantages of occupancy grid map are-
+
+1 In occupancy grid narrow passage details might lost, which makes it difficult to navigate.
+
+2 in occupancy grid required less memory"
+Short_answer_D,1,"-Memory requirement grows with the increasing size of the map and with decreasing cell size.
+-Incompatible with closed-world assumption and should reserve memory for grids to represent the complete map
+-It can only represent geometrical features","The disadvantages of occupancy grid map are:
+- In some cases the salient features may not be polygons
+- Narrow passages may be lost "
+Short_answer_D,"1,5","Memory requirement grows with increasing size of the map and with decreasing cell size.
+It can only represent geometrical features 
+It is incompatible with closed world assumption
+","The disadvantages of the occupancy grid map are that the size of map increases with the size of the environment. And if the sample size is kept at a small value, it will fill the memory space completely in no-time. And it is also not compatible with "
+Short_answer_D,2,,The first disadvantage of an occupancy grid map is the direct proportionality of the map in robot memory with the size of the environment. It is also incompatible with the closed-world approach which is highly useful in reducing memory size and complexity as in the case of continuous representations.
+Short_answer_D,2,,"The following are the disadvantages of an occupancy grid map:
+1. There might be losses of narrow passages when creating an occupancy grid map.
+2. In lower sizes of the images, the objects may not appear as clear or with smooth surfaces. Hence higher sizes are needed so more memory may be required. 
+"
+Short_answer_D,0,"disadvantages has to be listed.
+-Memory requirement grows with increasing size of the map and with decreasing cell size. It reserves memory for grids to represent complete map, which is infeasible for bigger maps
+-Incompatible with closed-world assumption 
+-It can only represent geometrical features (-0.5)
+-Narrow passage","The occupancy grid map distinguish the openspace and obstacles with binary data, 0 and 1. Therefore, it is computationally less cost and is easily updated by robot."
+Short_answer_D,2,,The required storage space grows with the size of the environment. This effect plays a big role especially with small cell size. 
+Short_answer_D,"1,5","-Incompatible with closed-world assumption
+-It can only represent geometrical features","The size of map increases keeps increasing when the robot maps the environment<br>
+When the size of grid is reduced to the memory consumption to store map is untenable"
+Short_answer_D,2,,The size of the map in the robots memory grows with the size of an environment. In occupancy grid map each cell occupies certain memory therefore seprate memory is required for each cell. the greater the environment the larger the memory is required.
+Short_answer_D,"1,5","1. Prominently memory requirement increases.
+- Incompatible with closed-world assumption","There are following disadvantages of the occupancy drid map:
+
+1. For the large maps and for the maps which have high resolution(more grid cells), the occupancy grid map gives a representation which is computational expensive.
+2. Occupancy grid map will not be a good option for the environment of which the geometry of objects is not the prominent feature that need to be considered."
+Short_answer_D,2,,"YOUR ANSWER HERE
+
+
+Disadvantages of Occupancy Grid map:
+1. loss of narrow passages, robot can not traverse through it
+2. if the grid/ cell size is very small then it is intenable
+3. it takes more memory and processing time. 
+4. loss of detail if cell size is increased. "
+Short_answer_E,2,,"- Topological map is a represenation of a map in terms of nodes and vertices.
+- Nodes represent the rooms and the vertices represent the corridors.
+- It is easy to compute as it follows graph search to find a path.
+- The robot should has the ability to determine which room is it in and to which node that room corresponds to."
+Short_answer_E,2,,"- Topological maps overcome the disadvantage of the occupancy grid maps as topological maps doesn't consider the geometry as the main component. It basically represents the essential features of the world in the form of the nodes and edges. 
+
+- Nodes represents the components of the environment and the edges represent the relationship between these nodes.
+
+- Two contraints in the topological maps are :
+1. The robot should know its position in the node.
+2. Ability to move from one node to another."
+Short_answer_E,3,,"- While other maps try to embed the geometrical aspects of the objects within the environment, the topological approach utilizes the characteristics of the environment.
+- Topological map is represented in the form a graph with the node as the free spac that is travellable and the edges represents the path that can be used for traversing.
+- Utilizes very low memory.
+- An example is the hallway and the rooms of the university. Each node can represent the navigatable subgoals and the rooms can also be represented as the node that are connected with the hallway node.
+- Robot needs to have an idea of how to enter and leave a node, how to localize in which node it is and the means to travel between the nodes."
+Short_answer_E,3,"""informatoin about the distance between the nodes"" is not necessarily required ","#### Topological map
+- Topological map is represented by object's charateristics using nodes rather than it's geometric shape. For example: If a robot sees a Television, a furniture and a sofa. It could conclude that it is in the living room.
+- It has the information of nodes and it's distance between them.
+- A robot in the topological map should be able to localize itself and it should be able to navigate through the nodes in the environment."
+Short_answer_E,2,,"1. A topological map is a map which represents the environment in the form of nodes and arcs that connect the nodes ( walls ).
+2. In this, a node may represent an area which is recognized by the presence of entry and exit spaces. The arcs show the connection between these nodes and the robot needs to follow it. 
+3. For example, while moving, a robot may move from one room to another ( in this case nodes ) and connects different nodes with an arc. In such a case, the robot knows where it is at all times and has the means to move. "
+Short_answer_E,3,"""without any obstacle"" this statement is not completely correct. The arcs represent adjacency or traversibility between nodes","1. Topological map - Topological map represents topological decomposition. It focuses on characteristics of the environment instead of geometrical representation of the environment. It encodes information about nodes and links in which nodes represent area and links represent adjacency between nodes. 
+2. Example - If there are nodes in topological map as A and B with link between them, then the robot can travel from area A to B and and B to A without any obstacle or intermidiate node."
+Short_answer_E,3,,"1. Topological maps will have nodes connected with edges. It is a dynamic way to represent the environment as nodes can be inserted or deleted any time.
+2. Generally, node size is not defined. We can have semantic information in nodes and edges.
+3. Behind node, we may have other map representations like occupancy grid map.
+4. Behind edges, we can encode landmarks or features.
+5. For e.g. If Door is a node, we can add more semantic information like if door is closed, open or partially open. Or we can have hierarchical maps behind nodes."
+Short_answer_E,3,,"A topological map does not provide a geometrical representation. The information is stored as a graph. The nodes are areas and the edges are connections between them. It is possible to label the nodes and the edges. For example, it is possible to make a topological map about a house, by representing every room as a node and the edges represent how they are connected to each other."
+Short_answer_E,2,,"A topological map encode the representation of the environment as a connect graph, where each cell is a node and is connected to adjacent cell called a edge. It encodes the cell as a node and represents the adjacency as an edge. For example cells A, B, C, D then A -> B -> C -> D. In this case the neighboring cells are A and B, B and C, C and D."
+Short_answer_E,2,,"A topological map is a graph that abstract the environment into nodes and connections/axes. The nodes represent points, objects or places in the environment while axes represent their adjacensy to each other. "
+Short_answer_E,3,,"A topological map is a graph that consists of nodes and arcs (or edges). The nodes encode the areas where the robots move and the arcs encode the adjacency of the nodes with other nodes. For example, considering a office floor with 3 rooms (side to side) if the robot is present in the middle room, a topological map would represent the middle node as the current node and the arcs would represent the adjacent rooms 1 and 3.  "
+Short_answer_E,2,"The areas are decided and distinguished on the basis of relevant characteristics perceivable by the sensors of the agent. In the application of navigation, the robot should be able to localize and traverse between nodes","A topological map is a graph, which represents areas of interest as nodes (like rooms, hallways etc.) and connects adjacent nodes, to represent a connection between e.g. rooms, which can be traveresed by the robot. "
+Short_answer_E,2,,"A topological map is a graphical representation of the environment into nodes and connectivity between these nodes. These nodes are used to denote areas in the world and arcs are used to denote adjacency of these nodes. When two node are adjacent they can travel directly without traversing through any other node. Hence, a topological map avoids direct measurement of the geometry of the environment."
+Short_answer_E,3,,"A topological map is a high level abstraction of the environement where each place is encoded as node the discribe its properties and features for the robot to be able to recognize. these noded are connected with edges that helps the robot plan to move between nodes.
+
+In case of an appartemnt, each room can be abstracted as a node and the relative positon of the rooms is encoded by the edges between nodes."
+Short_answer_E,3,,"A topological map is a map that consists out of nodes. Each node represents an area of free space and includes the information of nodes, which could be accessed from that area. 
+An example would be a mapping like this:
+""Node A"": [""Node B"", ""Node D""]
+""Node B"": [""Node A"", ""Node C""]
+""Node C"": [""Node B""]
+""Node D"": [""Node A""]
+In this example, the robot could travel from area A to area B or D."
+Short_answer_E,3,,"A topological map is a way of representing the features other than the geometric considerations of the environment. It typically encodes nodes and arcs that connect these nodes. These nodes can be of various sizes and types, but the one thing they have in common is that they all have the information on the entry and exit point for the robot. An example would be, in the topological representation of a building floor plan, each free room will be a node, and there will be an arc that connects each of these free rooms to the free hallway. The robot must have the required components to localize itself within each node and travel between nodes. "
+Short_answer_E,1,,"A topological map is an alternative method based on an occupancy grid and it encodes nodes wich are the areas or objects in the environment and also arcs, which connect the nodes.
+When the robot is in one particular node the robot can move to another node that is connected with an arc to that node."
+Short_answer_E,3,,"A topological map is composed of nodes and edges. Each node is a free space, such as a room or points in a hallway. Edges between nodes represent the ability to move between those nodes. For example, a node representing a room may be connected to a hallway node via an edge. Labels can be applied to nodes and edges, such as nodes being rooms or hallways and edges representing doorways or intersections."
+Short_answer_E,"2,5","The areas are decided and distinguished on the basis of relevant characteristics perceivable by the sensors of the agent. 
+- Arcs represent the connectivity or adjacency between the nodes. The robot uses features of the node to decide the entry to these adjacent nodes","A topological map represents areas as nodes and arcs that a robot can traverse on. It consists of entry and exit points recognized by the robot. 
+
+Eg: Considering a topological map of a house, the rooms are areas which are nodes, the walls are boundaries (arcs). The robot can recognize entry and exit points to follow the arcs. The robot has the means to localize and traverse through nodes. "
+Short_answer_E,3,,"The topogical map is made of nodes and edges. In this both nodes and edges can be encoded with information. in this map is divided into nodes and the nodes are connected by edges
+
+eg:
+
+map = {A:{B,C} , B:{A,C} , C:{A,B} }
+
+Here node A, B, C are adjacent nodes and if the robot needs to more from one place to another graph search algorithms can be used "
+Short_answer_E,"1,5","The areas are distinguished using relevant features of the region, which is not necessarily related to geometric features.
+An example is expected.",The topological map consist of nodes and edges. The nodes represent space or room and edges mean connectivity among the nodes.
+Short_answer_E,0,,The topological map is 
+Short_answer_E,3,,"The topological map is storing the characteristics of the robot environment in terms of nodes and arcs. The nodes are list of land marks and the arcs are the conectivity between the nodes. <br>
+In a home, there can be living room, bed room, bath room and others, these are the list of nodes<br>
+The travelling between or connectivity between rooms is the arcs.<br>
+The robot should know on how to localize it self in the environment using nodes and know means of motion between nodes."
+Short_answer_E,"1,5","The distinct areas of a map are represented as nodes. The agent should be able to distinguishing between them based on perception data.
+An example is expected","Topological map are same as symantic map it should has a means to find the position of its own in the node and it should has a means to traverse thought the node, 
+
+It encodes the information of nodes and its connectivity, where the nodes represent the real world and arc represent the adjacent node. "
+Short_answer_E,3,,"Topological map containe the representation of environment in the form of graph. It encodes the information about the free space in the form of vertex and the path available to move from one vertex to another in the form of edges.
+let's consider a hallway with multiple rooms in it. The some rooms are directly connected with each other and others can be reach by going through other rooms. Let the rooms be A-G. The topological map will represent each room with its number(A-F) as a vertex and it containe all the rooms connected with this perticular room as edges ({""A""=['B','E']}). This whole information will be available in the form of graph. "
+Short_answer_E,1,,Topological map focus on characteristic of environment that are helpful for localization and avoid geometric environmental qualities measurements. This representation specifies nodes and their connectivity in a graph.
+Short_answer_E,2,,Topological map is a graph based representaion and it essentially entails information of nodes and arcs that shows the connectivity between nodes for traversing. Different semantic information can be associate with nodes and ars.for example the start and goal position of a robot can be represented as a seprate nodes and a path that needs to be followed can be represented as an arc leading to the goal position. 
+Short_answer_E,1,"It represents areas of the map as nodes and the adjacency between them with arcs. Nodes represents areas in the world and the arcs represent the immediate traversability between these nodes. The areas are decided and distinguished on the basis of relevant characteristics perceivable by the sensors of the agent. 
+Arcs represent the connectivity or adjacency between the nodes. The robot uses the features of the node to decide the entry to these adjacent nodes.
+- An example is expected","Topological map is a kind of map that makes uses of topological decompostion. Intead of storing measurements of the features present in the environment, it stores the dat in the form of nodes. i provides the data in the form of table, where the table consists of nodes and connecton between nodes."
+Short_answer_E,0,"- Nodes represents areas in the world and the arcs represents the immediate traversibility between these nodes. The areas are decided and distinguished on the basis of relevant characteristics perceivable by the sensors of the agent. 
+- Arcs represent the connectivity or adjacency between the nodes. The robot uses features of the node to decide the entry to these adjacent nodes ","Topological map is map that represnt the details of the earth surface.
+As an example if we take a map of a city. iT HAS THE INFO about roads buildings and mountains rivrs etc"
+Short_answer_E,3,,"Topological map is to represent the real environment by nodes and connect them by edges.A topological map should have a means of travelling between nodes and the robot should know which node it is in.
+
+Edges represent the connection between nodes and nodes can embedded not only the name of the node, but also a hierachical map for the node. For example. The floor map of a dorm has 5 nodes (rooms), each nodes (room) can embedded a map of that specific room."
+Short_answer_E,"1,5","These nodes are connected based on their adjacency.
+An example is expected.",topological map it repersent the envrioment to nodes each node have information about the map and robot postion and they are contted to each other. the most important thing that the robot must have the senosor that precive this information and can be able to move through these nodes. 
+Short_answer_E,2,The robot uses the sensory characteristics of these areas to determine the traversibility between the nodes connected by arcs in the navigation application. An example is expected.,Topological map represent areas with charecteristics or features rather that their locations. In robotic applications this kind of map consists of nodes and arcs. Nodes represent areas and arcs represent the collection between node pairs. The Nodes are represented using features of the corresponding area.
+Short_answer_E,3,,"Topological map represents important characteristics of the environment with nodes and connections between the nodes. For example, in an office environment, there are 3 rooms, 2 pantry, and 1 passage. So it'll create 6 nodes for each area and make connections between these 6 nodes. Nodes contain information such as id, or some landmark information from that location, in order to help robot to localize faster."
+Short_answer_E,3,"- To be precise, the locations would the areas or regions of a map
+- Arcs (referred as edges) represents adjacency of the nodes in the navigatoin application. ","Topological Map: 
+
+1. Topological map represent the map in the form of nodes and edges where nodes can represent the possible location of robot in the map and edges can represent the adjacency of those locations.
+2. So, if robot wants to move from one location to another location then in that case, edges will represent the position movement locations.
+2. Example - In a building having n rooms, thus having n locaitions and resultant node, edges will represetn the possibility of movement to those location if the locations are in adjacen positions."
+Short_answer_E,3,,"Topological maps are simple representation of environment with nodes and edges like graph
+Unlike other maps, topological map has nodes with information related to the surroundings of that particular node
+
+Example:
+1. If we are representing an office, all the rooms can be considered as nodes and the path connecting the rooms can be considered as edges. 
+2. This node encodes data like feducial markers, Qr codes, images with which robot can confirm and locate itself inside that particular node 
+3. Edges may contain information like the status of the door (door may be open or closed or blocked)"
+Short_answer_E,2,Every node is distinguished based on relevant sensory characteristics. The navigating agent should be able to localize in a node and traverse to adjacent nodes which are connected by arcs in the map representation,Topological maps contains information of environment in terms of nodes and connectivity between nodes as archs. Example: two room could be considered as seprate nodes and a robot could traverse between nodes while following the arch contraint.
+Short_answer_E,"1,5",The distinct characteristics which are perceivable by the sensors of the robots are associated with a node representing that region. The connectivity between different areas (or nodes) is represented using arcs in the map. ,"Topological maps encode data related to the topology of the area. While the exact map identifies geometrical shapes, the topological map identifies topology. For example, if the area is a mountain or a plateau then the same will be shown on the map as a circle citing the peak of a mountain or the outline of the peak of the plateau will be shown on this map."
+Short_answer_E,3,,"YOUR ANSWER HERE
+
+
+Topological map is graphical representation of the environment, it represents characteristics of the environment not the geometrical qualities. we have nodes and edges. Nodes specifies some features and edges is a way to map from one node to another. In nodes we can add more semantic information like what is in the this room(tables, chair etc). Topological map could be hierarchical representation of the semantic information. Inside a node we could have ocuupancy grid map or topological map inside another topological map.  Two important constraints for robot to satify are:
+* detect current position in the graph
+* able to traverse between graphs nodes during motion. "
