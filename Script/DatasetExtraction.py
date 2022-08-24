@@ -8,7 +8,7 @@ root = "/home/ganesh/Documents/Master Thesis/"
 dataset_path = "Dataset/"
 
 # Class to read the dataset
-class Readdataset:
+class Readdataset():
     
     def __init__(self):
         # Location of Mohler dataset

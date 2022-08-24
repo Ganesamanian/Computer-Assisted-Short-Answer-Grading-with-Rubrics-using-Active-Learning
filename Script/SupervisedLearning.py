@@ -1,6 +1,10 @@
 
-from sklearn.ensemble import RandomForestClassifier
+from sklearn.ensemble import RandomForestClassifier, RandomForestRegressor
 from sklearn import svm
+from sklearn.linear_model import LinearRegression,Ridge
+from sklearn.isotonic import IsotonicRegression
+
+import mord
 
 
 # Class for supervised learning or

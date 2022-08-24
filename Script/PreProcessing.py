@@ -3,7 +3,7 @@ import spacy
 from spellchecker import SpellChecker
 
 
-class PreProcess:
+class PreProcess():
     
     def __init__(self):
         self.nlp = spacy.load("en_core_web_lg")
