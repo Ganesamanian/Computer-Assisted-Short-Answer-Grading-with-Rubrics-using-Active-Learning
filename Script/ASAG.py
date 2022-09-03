@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-
+# Header
 import numpy as np
 import pandas as pd
 import scipy.optimize
@@ -32,11 +32,18 @@ from FeatureExtraction import Featurextraction
 
 
 # Function to Run the model
-
-
-
-
 def runmodel(features, label, model, iterations, al=True):
+    """
+    Function to run the model in active learning
+    or supervised manner
+
+    Args:
+        features (array): Extracted features value
+        label (list): label for the data
+        model (object): Model to train
+        iterations (int): Number of random runs
+        al (bool, optional): Methods to select. Defaults to True which is active learning.
+    """
     
     acc_list = []
     pc_list = []

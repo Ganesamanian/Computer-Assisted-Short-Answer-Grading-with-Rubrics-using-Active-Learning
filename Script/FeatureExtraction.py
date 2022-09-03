@@ -8,10 +8,52 @@ from Processing import Processing
 process = Processing()
 pre_process = PreProcess()
 
-
+# Class to extract features
 class Featurextraction():
+    """
+    Class to extract features
+    """
     
     def __init__(self, data):
+        """
+        Function that initiates the feature variables
+
+        Args:
+            data (dataframe): Dataframe of dataset
+
+        Variables:
+            self.sentence_sim_score (array): Contains array of 
+                                             sentence similarity
+            self.word_count_score (array): Contains array of 
+                                           word overlap count
+            self.word_embedding_score (array): Contains array of 
+                                               word embedding
+            self.length_ratio_score (array): Contains array of 
+                                             length ratio
+            self.chunck_score (array): Contains array of 
+                                       chunck score
+            self.lsa_score (array): Contains array of 
+                                    lsa score
+
+            self.word_count_score_demoted (array): Contains array of 
+                                                   word overlap count
+                                                   after demoted
+            self.word_embedding_score_demoted (array): Contains array of 
+                                                       word embedding
+                                                       after demoted
+            self.length_ratio_score_demoted (array):Contains array of 
+                                                    length ratio
+                                                    after demoted
+            self.chunck_score_demoted (array): Contains array of 
+                                               chunck score
+                                               after demoted
+            self.lsa_score_demoted (array): Contains array of 
+                                            lsa score
+                                            after demoted
+
+            
+        """
+        
         self.sentence_sim_score = np.zeros((len(data), 1))
         self.word_count_score = np.zeros((len(data), 1))
         self.word_embedding_score = np.zeros((len(data), 1))
@@ -26,6 +68,9 @@ class Featurextraction():
         self.lsa_score_demoted = np.zeros((len(data), 1))
 
     def savefeatures(self):
+        """
+        Function to save the features in csv file
+        """
 
         features = np.hstack((self.sentence_sim_score, self.word_count_score,
                      self.word_embedding_score, self.length_ratio_score,
@@ -42,6 +87,9 @@ class Featurextraction():
         df.to_csv('Selectedfeatures.csv')
     
     def extract(self):
+        """
+        Function to extrac the features and save in csv file
+        """
 
         for count in range(len(data['answer'])):
         

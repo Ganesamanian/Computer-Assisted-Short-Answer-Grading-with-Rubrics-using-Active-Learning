@@ -1,10 +1,10 @@
+# Header
 import numpy as np
 
 from sklearn.ensemble import RandomForestClassifier, RandomForestRegressor
 from sklearn import svm
 from sklearn.linear_model import LinearRegression,Ridge
 from sklearn.isotonic import IsotonicRegression
-
 from sklearn.model_selection import train_test_split
 
 from modAL.models import ActiveLearner
@@ -27,9 +27,26 @@ import mord
 
 # Class for active learning wrapper
 class Active_learner():
+    """
+    This initiate the active learner
+    """
     
     # Class variables
     def __init__(self, X_train, X_test, y_train, y_test, model, percentage):
+
+        """
+        Initiate the class with the model to be used
+        along with data to be trained and validated
+
+        Args:
+            self.X_train (list): Train data
+            self.X_test (list): Test data
+            self.y_train (list): Actual label for train data
+            self.y_test (list): Actual label for test data
+            self.model (class/function): Model under training 
+            self.percentage (int): Percentage of data to query
+            
+        """
         
         self.X_train = X_train
         self.X_test = X_test
@@ -41,17 +58,39 @@ class Active_learner():
     
     # Custom query function
     def intensity_query(self, learner, X):
+        """
+        Function to query a data
+        from the pool of data
+
+        Args:
+            learner (class/function): Active learner initiated with
+                                      train data and model
+            X (list): pool of data to query from
+
+        Returns:
+            tuple: query index as int,
+                   queried data as list of strings
+        """
+        
         cosine_density = information_density(X, 'cosine')
         query_idx = np.argmax(cosine_density)        
         return query_idx, X[query_idx]
     
     # Active learning function
     def learn(self):
+
+        """
+        This function trains the model in a active learning
+        loop with custome query function 
+
+        Returns:
+            list: predicted scores
+        """
         
         '''
             Input:- Model, train and test set, query method, 
                     percentage of data for training AL
-            Output:- Accuracy graph and prediction
+            
         '''
         n_queries = int(len(self.X_train)*((100-self.percent)/100))
         
@@ -68,7 +107,9 @@ class Active_learner():
         y_initial = self.y_train[initial_idx]
 
         # generating the pool
-        X_pool = np.delete(self.X_train, initial_idx, axis=0)
+        X_pool = np.delete(sereturns the rmse
+        using sklearn metrics
+        between the actual and predicted scoreslf.X_train, initial_idx, axis=0)
         y_pool = np.delete(self.y_train, initial_idx, axis=0)
         
 #         print(len(X_train), len(X_initial), len(X_pool), len(X_test))
@@ -90,6 +131,7 @@ class Active_learner():
 #         decision_number = np.array([int(input())], dtype=int)
         decision_number = 2
         
+        # Query loop
         for counter in range(n_queries):
             
 #             display.clear_output(wait=True)
